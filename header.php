@@ -14,19 +14,19 @@
 <body class="header-moved">
 
     <!-- LOADER -->
-    <div id="loader-wrapper">
+  <!--   <div id="loader-wrapper">
         <div class="loader-content">
             <div class="circle1"></div>
             <div class="circle2"></div>
             <div class="title">Loading</div>
         </div>
-    </div>
+    </div> -->
 
     <!-- HEADER -->
     <header>
         <div class="container">
             <div id="logo-wrapper">
-                <div class="cell-view"><a id="logo" href="index.html"><img src="img/logo.png" alt="" /></a></div>
+                <div class="cell-view"><a id="logo" href="index.php"><img src="img/logo.png" alt="" /></a></div>
             </div>
             <div class="open-icon">
                 <span></span>
@@ -38,7 +38,7 @@
                     <div class="header-left">
                         <nav>
                             <div class="menu-entry active">
-                                <a href="index.html">Inicio</a>
+                                <a href="index.php">Inicio</a>
                                 <!-- <span class="submenu-icon"><span class="glyphicon glyphicon-chevron-down"></span></span> -->
                                 <!-- <div class="submenu">
                                     <div>
@@ -49,34 +49,34 @@
                                 </div> -->
                             </div>
                             <div class="menu-entry">
-                                <a href="paginaweb.html">Paginas Web</a>
-                                <span class="submenu-icon"><span class="glyphicon glyphicon-chevron-down"></span></span>
-                                <div class="submenu">
+                                <a href="paginaweb.php">Paginas Web</a>
+                              <!--   <span class="submenu-icon"><span class="glyphicon glyphicon-chevron-down"></span></span> -->
+                               <!--  <div class="submenu">
                                     <div>
                                         <a href="hosting.html">Plan 1</a>
                                         <a href="host-shared.html">Plan 2</a>
                                         <a href="host-vps.html">Plan 3</a>
-                                        <!-- <a href="host-dedicated.html">Dedicated</a> -->
+                                        <a href="host-dedicated.html">Dedicated</a>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="menu-entry">
-                                <a href="host-domains.html">Marketing</a>
+                                <a href="posicionamiento-web.php">Posicionamiento</a>
                             </div>
                              <div class="menu-entry">
-                                <a href="hosting.html">Hosting</a>
-                                <span class="submenu-icon"><span class="glyphicon glyphicon-chevron-down"></span></span>
-                                <div class="submenu">
+                                <a href="hosting.php">Hosting</a>
+                                <!-- <span class="submenu-icon"><span class="glyphicon glyphicon-chevron-down"></span></span> -->
+                               <!--  <div class="submenu">
                                     <div>
                                         <a href="hosting.html">Plan 1</a>
                                         <a href="host-shared.html">Plan 2</a>
                                         <a href="host-vps.html">Plan 3</a>
-                                        <!-- <a href="host-dedicated.html">Dedicated</a> -->
+                                        <a href="host-dedicated.html">Dedicated</a>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="menu-entry">
-                                <a href="host-domains.html">Dominio</a>
+                                <a href="dominios.php">Dominios</a>
                             </div>
                              
                             <!-- <div class="menu-entry">
@@ -106,7 +106,7 @@
                                 </div>
                             </div> -->
                             <div class="menu-entry">
-                                <a href="contact.html">Contacto</a>
+                                <a href="contacto.php">Contacto</a>
                             </div>
                                                                                 
                         </nav>
