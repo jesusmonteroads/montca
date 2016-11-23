@@ -22,10 +22,10 @@
                                         <div class="slide-block nopadding col-sm-6">
                                             <div class="vertical-align">
                                                 <div class="content text-entry">
-                                                    <div class="price">From <b>$2</b><small>/per month</small></div>
+                                                    <div class="price">Desde <b>$82.500</b><small> Mensuales</small></div>
                                                     <h3 class="title">Paginas Web</h3>
-                                                    <div class="text">Integer faucibus, dui quis pellentesque vestibulum, nulla ante aliquet turpis, in consectetur ex dui vitae erat in eleifend eros</div>
-                                                    <a class="button" href="hosting.html">learn more</a>
+                                                    <div class="text">Crea con nosotros páginas web Personales, Empresariales, Ecommerce. Con diseños a la medida de tus necesidades.</div>
+                                                    <a class="button" href="hosting.html">Empecemos</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -46,10 +46,10 @@
                                         <div class="slide-block nopadding col-sm-6">
                                             <div class="vertical-align">
                                                 <div class="content text-entry">
-                                                    <div class="price">From <b>$2</b><small>/per month</small></div>
-                                                    <h3 class="title">Marketing</h3>
-                                                    <div class="text">Integer faucibus, dui quis pellentesque vestibulum, nulla ante aliquet turpis, in consectetur ex dui vitae erat in eleifend eros, dui quis pellentesque vestibulum,</div>
-                                                    <a class="button" href="hosting.html">learn more</a>
+                                                    <div class="price">Campañas desde <b>$250.000</b><small> Mensuales</small></div>
+                                                    <h3 class="title">Posicionamiento</h3>
+                                                    <div class="text">Mejora la presencia de tu marca o empresa con estrategias organicas (Seo) e inorganicas (Adwords, Facebook Ads)</div>
+                                                    <a class="button" href="hosting.html">Empecemos</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -70,10 +70,10 @@
                                         <div class="slide-block nopadding col-sm-6">
                                             <div class="vertical-align">
                                                 <div class="content text-entry">
-                                                    <div class="price">From <b>$2</b><small>/per month</small></div>
+                                                    <div class="price">Desde <b>$20.000</b><small> Mensual</small></div>
                                                     <h3 class="title">Hosting</h3>
-                                                    <div class="text">Integer faucibus, dui quis pellentesque vestibulum, nulla ante aliquet turpis, in consectetur ex dui vitae erat in eleifend eros, dui quis pellentesque vestibulum,</div>
-                                                    <a class="button" href="hosting.html">learn more</a>
+                                                    <div class="text">Contamos con la mejor solución de alojamiento web para tu empresa. Con centro de datos en todas partes del mundo.</div>
+                                                    <a class="button" href="hosting.html">Empecemos</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -94,10 +94,10 @@
                                         <div class="slide-block nopadding col-sm-6 col-sm-pull-6">
                                             <div class="vertical-align">
                                                 <div class="content text-entry">
-                                                    <div class="price">From <b>$2</b><small>/per month</small></div>
+                                                    <div class="price">Tu dominio<b> Gratis</b><small></small></div>
                                                     <h3 class="title">Dominio</h3>
-                                                    <div class="text">Integer faucibus, dui quis pellentesque vestibulum, nulla ante aliquet turpis, in consectetur ex dui vitae erat in eleifend eros, dui quis pellentesque vestibulum,</div>
-                                                    <a class="button" href="#">learn more</a>
+                                                    <div class="text">Sabemos de imoportancia de iniciar con un gran nombre en la internet, por eso siempre te daremos el dominio gratis*</div>
+                                                    <a class="button" href="#">Empecemos</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -114,19 +114,19 @@
                         <div class="row">
                             <div class="tab-entry active col-md-3">
                                 <div class="title">Paginas Web</div>
-                                <div class="text">mattis gravida risus sed gravida</div>
+                                <div class="text">HTML5, CSS3, JS, WORDPRESS</div>
                             </div>
                             <div class="tab-entry col-md-3">
-                                <div class="title">Marketing</div>
-                                <div class="text">ultrices nulla semper quis</div>
+                                <div class="title">Posicionamiento</div>
+                                <div class="text">GOOGLE, FACEBOOK, INSTAGRAM, TWITTER</div>
                             </div>
                             <div class="tab-entry col-md-3">
                                 <div class="title">Hosting</div>
-                                <div class="text">bibendum eget nunc fermentum</div>
+                                <div class="text">COMPARTIDO, VPS, DEDICADO</div>
                             </div>
                             <div class="tab-entry col-md-3">
                                 <div class="title">Dominio</div>
-                                <div class="text">posuere blandit orci sed porttitor</div>
+                                <div class="text">.COM, .CO, .NET, .COM.CO, .ORG </div>
                             </div>
                         </div>
                     </div>
@@ -173,7 +173,7 @@
                     <div class="row wow fadeInDown">
                         <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
                             <h2 class="title">Servicios</h2>
-                            <div class="text">Integer faucibus, dui quis pellentesque vestibulum, nulla ante aliquet turpis, in consectetur ex dui vitae erat in eleifend eros</div>
+                            <div class="text">Nuestro desarrollos integran las mejores tecnologias a nivel web, para satifacer tus necesidades.</div>
                         </div>
                     </div>
 
@@ -182,28 +182,28 @@
                             <img src="img/icon-1.png" alt=""/>
                             <div class="content">
                                 <h3 class="title">Diseño de logo</h3>
-                                <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
+                                <div class="text">Tu marca es la cara que representa y diferencia tu empresa por eso es necesario tenerla siempre presente.</div>
                             </div>
                         </div>
                         <div class="icon-entry col-xs-12 col-sm-6  col-md-4">
                             <img src="img/icon-2.png" alt=""/>
                             <div class="content">
                                 <h3 class="title">Redes Sociales</h3>
-                                <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
+                                <div class="text">Siempre es necesario que tu producto o servicio este visible por medio de la herramientas como Facebook, Instagram, Twitter. </div>
                             </div>
                         </div>
                         <div class="icon-entry col-xs-12 col-sm-6  col-md-4">
                             <img src="img/icon-3.png" alt=""/>
                             <div class="content">
                                 <h3 class="title">Correos Corporativos</h3>
-                                <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
+                                <div class="text">No puede faltar en tu empresa comunicarte por medio de tus propias cuentas de correo como lo hacen los grandes.</div>
                             </div>
                         </div>
                         <div class="icon-entry col-xs-12 col-sm-6  col-md-4">
                             <img src="img/icon-4.png" alt=""/>
                             <div class="content">
                                 <h3 class="title">Posicionamiento SEO</h3>
-                                <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
+                                <div class="text">Se visible en los principales resultados de busqueda de Google y aunmentaras las ventas de tu servicio o productos.</div>
                             </div>
                         </div>
                         <div class="icon-entry col-xs-12 col-sm-6  col-md-4">

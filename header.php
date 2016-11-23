@@ -8,7 +8,7 @@
     <link href="css/idangerous.swiper.css" rel="stylesheet" type="text/css" />
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="css/animate.css" rel="stylesheet" type="text/css" />
-    <link rel="shortcut icon" href="img/favicon.ico" />
+    <link rel="shortcut icon" href="img/favicon.png" />
   	<title>Montca</title>
 </head>
 <body class="header-moved">
@@ -135,8 +135,8 @@
             <div class="block type-9">
                 <div class="container">
                     <div class="entry">
-                        <h3 class="title wow fadeInLeft">Hot Propouse!</h3>
-                        <div class="text wow fadeInRight">Only <b>10 Days</b> Your Personal Dedicated Server <span><b>$3</b><small>/per mounth</small></span></div>
+                        <h3 class="title wow fadeInLeft">Promoción</h3>
+                        <div class="text wow fadeInRight"> <b>10% Descuento</b> para nuevos clientes  <!-- <span><b></b><small>/</small></span> --></div>
                     </div>
                 </div>
             </div>

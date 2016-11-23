@@ -1,3 +1,7 @@
+
+
+
+
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 /*This is main CSS file that contains custom style rules used in this template*/
 /*-------------------------------------------------------------------------------------------------------------------------------*/
@@ -175,7 +179,7 @@
 	/*content wrapper*/
 	#content-wrapper{padding-top: 122px; position: relative;}
 	/*body class with moved header*/
-	body.header-moved #content-wrapper{padding-top: 244px;}
+	/*body.header-moved #content-wrapper{padding-top: 244px;}*/
 	/*container to display above header*/
 	.container-above-header{position: absolute; width: 100%; left: 0; top: 0;}
 	/*text styles*/
@@ -239,7 +243,7 @@
 	.menu-entry:hover .submenu-icon:before, .menu-entry.active .submenu-icon:before{background-color: #ff6c3a;}
 
 	/*body class with moved header*/
-	body.header-moved header{position: absolute; top: 122px;}
+	body.header-moved header{position: absolute; top: 60px;}
 	body.header-moved header.fixed-top{position: fixed; top: 0;}
 
 	/*reduced header*/
@@ -634,7 +638,7 @@
 /* 16 - BLOCK "TYPE 9" */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 	.block.type-9{background: #232c3b; padding: 0; height: 122px;}
-	.block.type-9 .entry{padding-top: 45px;}
+	.block.type-9 .entry{padding-top: 15px;}
 	.block.type-9 .title{ display: inline-block; font-size: 28px; line-height: 32px; color: #ff6c3a; font-family: 'black', sans-serif, Arial; margin-right: 15px;}
 	.block.type-9 .text{font-size: 20px; line-height: 24px; color: #fff; display: inline-block;}
 	.block.type-9 .text span{color: #ff6c3a;}
@@ -1367,3 +1371,10 @@ footer .social-icon:before, .menu-entry div, .menu-entry .submenu-icon span, .su
 	BOX SIZE STYLES
 	===============  */
 	.box-size{width: 100%; height: 100%; position: absolute; left: 0; top: 0;}
+
+
+
+
+.entry{
+	padding-top: 27px;
+}
