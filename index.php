@@ -189,7 +189,7 @@
                             <img src="img/icon-2.png" alt=""/>
                             <div class="content">
                                 <h3 class="title">Redes Sociales</h3>
-                                <div class="text">Siempre es necesario que tu producto o servicio este visible por medio de la herramientas como Facebook, Instagram, Twitter. </div>
+                                <div class="text">Siempre es necesario que tu producto o servicio este visible por medio de las herramientas como Facebook, Instagram, Twitter. </div>
                             </div>
                         </div>
                         <div class="icon-entry col-xs-12 col-sm-6  col-md-4">
@@ -210,35 +210,35 @@
                             <img src="img/icon-5.png" alt=""/>
                             <div class="content">
                                 <h3 class="title">Google Adwords</h3>
-                                <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
+                                <div class="text">Utiliza Google Adwords para promosionar tu empresa en la red de display, busqueda, video y llega a tus clientes.</div>
                             </div>
                         </div>
                         <div class="icon-entry col-xs-12 col-sm-6  col-md-4">
                             <img src="img/icon-6.png" alt=""/>
                             <div class="content">
                                 <h3 class="title">Google Analytics</h3>
-                                <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
+                                <div class="text">Siempre lleva el control analítico de las visitas en tu sitio. Para asi mejorar siempre tu producto.</div>
                             </div>
                         </div>
                         <div class="icon-entry col-xs-12 col-sm-6  col-md-4">
                             <img src="img/icon-7.png" alt=""/>
                             <div class="content">
                                 <h3 class="title">Diseño Responsive</h3>
-                                <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
+                                <div class="text">La mayoria de tus clientes te encontraran en una version móvil. Por eso creamos productos que se adapten a la necesidades de tus clientes.</div>
                             </div>
                         </div>
                         <div class="icon-entry col-xs-12 col-sm-6  col-md-4">
                             <img src="img/icon-8.png" alt=""/>
                             <div class="content">
                                 <h3 class="title">Soporte 24/7</h3>
-                                <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
+                                <div class="text">Tranquilo, trabajos 24/7 para que tus productos esten en las mejores condiciones para tus clientes.</div>
                             </div>
                         </div>
                         <div class="icon-entry col-xs-12 col-sm-6  col-md-4">
                             <img src="img/icon-9.png" alt=""/>
                             <div class="content">
                                 <h3 class="title">Optimización Web</h3>
-                                <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
+                                <div class="text">Siempre existirá una mejor versión de tus productos y nosotros contamos con la capacidad de hacerlo realidad.</div>
                             </div>
                         </div>
                     </div>
@@ -490,7 +490,7 @@
             </div> -->
 
             <!-- BLOCK "TYPE 3" -->
-            <div class="block type-3">
+           <!--  <div class="block type-3">
                 <div class="container">
 
                     <div class="row wow fadeInDown">
@@ -529,7 +529,7 @@
                     </div>
 
                 </div>
-            </div>
+            </div> -->
 
             <!-- BLOCK "TYPE 5" -->
             <div class="block type-5">
@@ -538,7 +538,7 @@
                     <div class="row wow fadeInDown">
                         <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
                             <h2 class="title">Nuestros Clientes</h2>
-                            <div class="text">Integer faucibus, dui quis pellentesque vestibulum, nulla ante aliquet turpis, in consectetur ex dui vitae erat in eleifend eros</div>
+                            <div class="text">Estas empresas nos recomiendan.</div>
                         </div>
                     </div>
 
@@ -579,35 +579,36 @@
                         <div class="col-md-6 wow fadeInLeft">
                             <div class="row">
                                 <div class="block-header">
-                                    <h2 class="title">FAQ`s</h2>
-                                    <div class="text">Integer faucibus, dui quis pellentesque vestibulum, nulla ante aliquet turpis, in consectetur ex dui vitae erat in eleifend eros</div>
+                                    <h2 class="title">Preguntas Frecuentes</h2>
+                                    <div class="text">Si no encuentras respuesta a tu pregunta, contacanos en el chat.</div>
                                 </div>
                             </div>
 
                             <div class="accordeon-wrapper">
                                 <div class="accordeon-entry active">
-                                    <div class="title">Mauris augue mauris</div>
-                                    <div class="text" style="display: block;">Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam vel lectus in urna mattis ullamcorper. Etiam vel dolor leo. Vestibulum congue dolor at sollicitudin placerat. Mauris cursus vestibulum sapien ut ultricies. Praesent est arcu, condimentum.</div>
+                                    <div class="title">¿La página es administrable?</div>
+                                    <div class="text" style="display: block;">Todos nuestros planes cuenta con la capacidad de administrar toda tu información. Con conocimientos basicos de internet puedes hacer cambios como imagenes, textos, videos y mas... </div>
                                 </div>
 
                                 <div class="accordeon-entry">
-                                    <div class="title">Maecenas euismod ultrices urna sit amet</div>
-                                    <div class="text">Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam vel lectus in urna mattis ullamcorper. Etiam vel dolor leo. Vestibulum congue dolor at sollicitudin placerat. Mauris cursus vestibulum sapien ut ultricies. Praesent est arcu, condimentum.</div>
+                                    <div class="title">¿En cuanto tiempo estará lista mi página web?</div>
+                                    <div class="text">Apartir del momento que se obtengan todos los requerimientos del cliente incluyendo la información, nuestro desarrollo tendra un promedio de realización no mayor a 10 días habiles. Todo esto teniedo encuenta los tiempo de aprobación del cliente.</div>
                                 </div>
 
                                 <div class="accordeon-entry">
-                                    <div class="title">Vestibulum ornare, sem vitae tempus ornare</div>
-                                    <div class="text">Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam vel lectus in urna mattis ullamcorper. Etiam vel dolor leo. Vestibulum congue dolor at sollicitudin placerat. Mauris cursus vestibulum sapien ut ultricies. Praesent est arcu, condimentum.</div>
+                                    <div class="title">¿Puedo usar mi propio nombre de dominio?</div>
+                                    <div class="text">Siempre y cuando se encuentre disponible, usted puede hacer uso del dominio <strong>www.miempresa.com</strong>, recuerde que todos nuestros planes incluyen el dominio para su empresa, por el primer año sera completamente GRATIS.</div>
                                 </div>
 
                                 <div class="accordeon-entry">
-                                    <div class="title">Etiam sed ligula anteem vitae tempus ornare</div>
-                                    <div class="text">Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam vel lectus in urna mattis ullamcorper. Etiam vel dolor leo. Vestibulum congue dolor at sollicitudin placerat. Mauris cursus vestibulum sapien ut ultricies. Praesent est arcu, condimentum.</div>
+                                    <div class="title">Cuando nuestra página web saldrá en los resultados de Google?</div>
+                                    <div class="text"> El proceso de indexación por parte de Google en las nuevas páginas nuevas puede llegar a tardar en promedio hasta 15 días, esto no quiere decir que aparecerá en los principales resultados de búsquedas  si usted desea acelerar es proceso lo ideal es comenzar a realizar publicidad con nuestro producto de Google <a href="posicionamiento-web.php"> Seo o Adwords</a></div>
                                 </div>
 
                                 <div class="accordeon-entry">
-                                    <div class="title">Curabitur quis ante a felis eleifend</div>
-                                    <div class="text">Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam vel lectus in urna mattis ullamcorper. Etiam vel dolor leo. Vestibulum congue dolor at sollicitudin placerat. Mauris cursus vestibulum sapien ut ultricies. Praesent est arcu, condimentum.</div>
+                                    <div class="title">¿Que necesito para crear mi logo?</div>
+                                    <div class="text">
+                                    Diligenciar un formulario. El cual nos permitirá conocer los objetivos y el direccionamiento que quiere darle a su imagen, todo bajo la asesoría de un profesional.</div>
                                 </div>
                             </div>
                             
@@ -616,7 +617,7 @@
                             <div class="row">
                                 <div class="block-header col-md-12">
                                     <h2 class="title">Testimonios</h2>
-                                    <div class="text">Integer faucibus, dui quis pellentesque vestibulum, nulla ante aliquet turpis, in consectetur ex dui vitae erat in eleifend eros</div>
+                                    <div class="text">Lo que nuestros clientes dicen.</div>
                                 </div>
                             </div>
 
@@ -626,26 +627,28 @@
                                         <div class="swiper-wrapper">
                                             <div class="swiper-slide"> 
                                                 <blockquote>
-                                                    <p>Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci.</p>
-                                                    <footer><cite>Dorian Gray</cite>, Ceo Google Corp</footer>
+                                                    <p>Montca, es una empresa joven comprometida con el cliente.
+                                                    Ha cumplido con nuestras expectativas entregándonos en tiempo y forma el Servicio de diseño de página Web solicitado. 
+                                                    El Trabajo entregado fue oportuno, claro, con gran creatividad que ha dado a nuestra segunda Página  un toque fresco y especial que la hace diferente a otras.</p>
+                                                    <footer><cite>Alejandro Jáuregui Gómez</cite>, Ceo Gestiopolis</footer>
                                                 </blockquote>
                                             </div>
                                             <div class="swiper-slide"> 
                                                 <blockquote>
-                                                    <p>Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue.</p>
-                                                    <footer><cite>Dorian Gray</cite>, Ceo Google Corp</footer>
+                                                    <p>Estamos muy conformes con la construccion de nuestro sitio web, excelente servicio y adaptacion a nuestra necesidad, tenemos la confianza de su respaldo para cualquier actividad futura en la Web.</p>
+                                                    <footer><cite>Mauricio Lancheros</cite>, Ceo Lanch</footer>
                                                 </blockquote>
                                             </div>
                                             <div class="swiper-slide"> 
                                                 <blockquote>
-                                                    <p>Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci.</p>
-                                                    <footer><cite>Dorian Gray</cite>, Ceo Google Corp</footer>
+                                                    <p>Mi único testimonio es que su servicio es extraordinario y a un precio muy competitivo y accesible. Yo quede muy conforme con el trabajo que hicieron.</p>
+                                                    <footer><cite>Fredy Mora</cite>, Ceo suWWWeb</footer>
                                                 </blockquote>
                                             </div>
                                             <div class="swiper-slide"> 
                                                 <blockquote>
-                                                    <p>Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue.</p>
-                                                    <footer><cite>Dorian Gray</cite>, Ceo Google Corp</footer>
+                                                    <p>Estamos muy conformes con la construccion de nuestro sitio web, excelente servicio y adaptacion a nuestra necesidad, tenemos la confianza de su respaldo para cualquier actividad futura en la Web.</p>
+                                                    <footer><cite>Numael Gonzales</cite>, Ceo Estilo Agro</footer>
                                                 </blockquote>
                                             </div>
                                             <!-- <div class="swiper-slide"> 
@@ -706,14 +709,14 @@
 
                     <div class="row wow fadeInDown">
                         <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
-                            <h2 class="title">The NRGHost Support</h2>
-                            <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit</div>
+                            <h2 class="title">Montca.co</h2>
+                            <div class="text">En Montca estamos listos para hacer realidad tu nuevo proyecto.</div>
                         </div>
                     </div>
 
                     <div class="block-button-container wow fadeInUp">
-                        <div class="button-description">Hot Number <a href="tel:+485558453264">+48 555 8453 264</a> <br/> or</div>
-                        <a class="button" href="contact.html">have a question? form for suggestions and comments</a>
+                        <div class="button-description">Contacto <a href="tel:+573016861707">+57 3016861707</a> <br/> </div>
+                        <a class="button" href="contact.html">¿Tienes alguna pregunta?</a>
                     </div>
 
                 </div>
