@@ -9,7 +9,7 @@
                     <div class="swiper-container" data-autoplay="0" data-loop="0" data-speed="500" data-center="0" data-slides-per-view="1">
                         <div class="swiper-wrapper">
 
-                            <div class="swiper-slide"> 
+                            <div class="swiper-slide">
                                 <div class="container">
                                     <div class="slide-container">
                                         <div class="slide-block nopadding col-sm-6">
@@ -33,7 +33,7 @@
                                 </div>
                             </div>
 
-                            <div class="swiper-slide"> 
+                            <div class="swiper-slide">
                                 <div class="container">
                                     <div class="slide-container">
                                         <div class="slide-block nopadding col-sm-6">
@@ -57,7 +57,7 @@
                                 </div>
                             </div>
 
-                            <div class="swiper-slide"> 
+                            <div class="swiper-slide">
                                 <div class="container">
                                     <div class="slide-container">
                                         <div class="slide-block nopadding col-sm-6">
@@ -81,7 +81,7 @@
                                 </div>
                             </div>
 
-                            <div class="swiper-slide"> 
+                            <div class="swiper-slide">
                                 <div class="container">
                                     <div class="slide-container">
                                         <div class="slide-block nopadding col-sm-6 col-sm-push-6">
@@ -132,7 +132,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <!-- BLOCK "TYPE 8" -->
             <!-- <div class="block type-8">
                 <div class="container">
@@ -247,7 +247,7 @@
             </div>
 
             <!-- BLOCK "TYPE 2" -->
-            
+
             <!-- <div class="block type-2">
                 <div class="container">
 
@@ -316,7 +316,7 @@
             </div> -->
 
             <!-- BLOCK "TYPE 7" -->
-            
+
             <!-- <div class="block type-7">
                 <div class="container">
 
@@ -408,7 +408,7 @@
             </div>
  -->
             <!-- BLOCK "TYPE 4" -->
-            
+
             <!-- <div class="block type-4">
                 <div class="container">
 
@@ -545,22 +545,22 @@
                     <div class="wow fadeInUp">
                         <div class="swiper-container" data-autoplay="0" data-loop="0" data-speed="500" data-center="0" data-slides-per-view="responsive" data-xs-slides="1" data-sm-slides="3" data-md-slides="5" data-lg-slides="6">
                             <div class="swiper-wrapper">
-                                <div class="swiper-slide"> 
+                                <div class="swiper-slide">
                                     <img src="img/logo-1.png" alt="" />
                                 </div>
-                                <div class="swiper-slide"> 
+                                <div class="swiper-slide">
                                     <img src="img/logo-2.png" alt="" />
                                 </div>
-                                <div class="swiper-slide"> 
+                                <div class="swiper-slide">
                                     <img src="img/logo-3.png" alt="" />
                                 </div>
-                                <div class="swiper-slide"> 
+                                <div class="swiper-slide">
                                     <img src="img/logo-4.png" alt="" />
                                 </div>
-                                <div class="swiper-slide"> 
+                                <div class="swiper-slide">
                                     <img src="img/logo-5.png" alt="" />
                                 </div>
-                                <div class="swiper-slide"> 
+                                <div class="swiper-slide">
                                     <img src="img/logo-6.png" alt="" />
                                 </div>
                             </div>
@@ -611,7 +611,7 @@
                                     Diligenciar un formulario. El cual nos permitirá conocer los objetivos y el direccionamiento que quiere darle a su imagen, todo bajo la asesoría de un profesional.</div>
                                 </div>
                             </div>
-                            
+
                         </div>
                         <div class="col-md-6 wow fadeInRight">
                             <div class="row">
@@ -625,51 +625,51 @@
                                 <div class="testimonials-container">
                                     <div class="swiper-container connected-to-bottom-swiper" data-autoplay="0" data-loop="0" data-speed="500" data-center="0" data-slides-per-view="1">
                                         <div class="swiper-wrapper">
-                                            <div class="swiper-slide"> 
+                                            <div class="swiper-slide">
                                                 <blockquote>
                                                     <p>Montca, es una empresa joven comprometida con el cliente.
-                                                    Ha cumplido con nuestras expectativas entregándonos en tiempo y forma el Servicio de diseño de página Web solicitado. 
+                                                    Ha cumplido con nuestras expectativas entregándonos en tiempo y forma el Servicio de diseño de página Web solicitado.
                                                     El Trabajo entregado fue oportuno, claro, con gran creatividad que ha dado a nuestra segunda Página  un toque fresco y especial que la hace diferente a otras.</p>
                                                     <footer><cite>Alejandro Jáuregui Gómez</cite>, Ceo Gestiopolis</footer>
                                                 </blockquote>
                                             </div>
-                                            <div class="swiper-slide"> 
+                                            <div class="swiper-slide">
                                                 <blockquote>
                                                     <p>Estamos muy conformes con la construccion de nuestro sitio web, excelente servicio y adaptacion a nuestra necesidad, tenemos la confianza de su respaldo para cualquier actividad futura en la Web.</p>
                                                     <footer><cite>Mauricio Lancheros</cite>, Ceo Lanch</footer>
                                                 </blockquote>
                                             </div>
-                                            <div class="swiper-slide"> 
+                                            <div class="swiper-slide">
                                                 <blockquote>
                                                     <p>Mi único testimonio es que su servicio es extraordinario y a un precio muy competitivo y accesible. Yo quede muy conforme con el trabajo que hicieron.</p>
                                                     <footer><cite>Fredy Mora</cite>, Ceo suWWWeb</footer>
                                                 </blockquote>
                                             </div>
-                                            <div class="swiper-slide"> 
+                                            <div class="swiper-slide">
                                                 <blockquote>
                                                     <p>Estamos muy conformes con la construccion de nuestro sitio web, excelente servicio y adaptacion a nuestra necesidad, tenemos la confianza de su respaldo para cualquier actividad futura en la Web.</p>
                                                     <footer><cite>Numael Gonzales</cite>, Ceo Estilo Agro</footer>
                                                 </blockquote>
                                             </div>
-                                            <!-- <div class="swiper-slide"> 
+                                            <!-- <div class="swiper-slide">
                                                 <blockquote>
                                                     <p>Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci.</p>
                                                     <footer><cite>Dorian Gray</cite>, Ceo Google Corp</footer>
                                                 </blockquote>
                                             </div>
-                                            <div class="swiper-slide"> 
+                                            <div class="swiper-slide">
                                                 <blockquote>
                                                     <p>Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue.</p>
                                                     <footer><cite>Dorian Gray</cite>, Ceo Google Corp</footer>
                                                 </blockquote>
                                             </div>
-                                            <div class="swiper-slide"> 
+                                            <div class="swiper-slide">
                                                 <blockquote>
                                                     <p>Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci.</p>
                                                     <footer><cite>Dorian Gray</cite>, Ceo Google Corp</footer>
                                                 </blockquote>
                                             </div>
-                                            <div class="swiper-slide"> 
+                                            <div class="swiper-slide">
                                                 <blockquote>
                                                     <p>Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue.</p>
                                                     <footer><cite>Dorian Gray</cite>, Ceo Google Corp</footer>
@@ -715,7 +715,7 @@
                     </div>
 
                     <div class="block-button-container wow fadeInUp">
-                        <div class="button-description">Contacto <a href="tel:+573016861707">+57 3016861707</a> <br/> </div>
+                        <div class="button-description">Contacto <a href="tel:+573016861707">+57 301 6861 707</a> <br/> </div>
                         <a class="button" href="contact.html">¿Tienes alguna pregunta?</a>
                     </div>
 
