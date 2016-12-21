@@ -1,6 +1,6 @@
 <?php include("header.php"); ?>
 
- 
+
 
         <div class="blocks-container">
 
@@ -12,8 +12,8 @@
                         <div class="container min-height-0">
                             <div class="row nopadding">
                                 <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
-                                    <h2 class="title">Pagina Web</h2>
-                                    <div class="text">Integer faucibus, dui quis pellentesque vestibulum, nulla ante aliquet turpis, in consectetur ex dui vitae erat in eleifend eros</div>
+                                    <h2 class="title">Paginas Web</h2>
+                                    <div class="text">Lleva tu negocio al siguiente nivel, creando una pagina web totalmente a la medida del mercado actual.</div>
                                 </div>
                             </div>
                         </div>
@@ -28,7 +28,7 @@
                     <div class="row wow fadeInDown">
                         <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
                             <h2 class="title"></h2>
-                            <div class="text">Curabitur nunc neque, mollis viverra ex in, auctor elementum mi. Donec non purus felis. Duis interdum mi id purub</div>
+                            <!-- <div class="text">Curabitur nunc neque, mollis viverra ex in, auctor elementum mi. Donec non purus felis. Duis interdum mi id purub</div> -->
                         </div>
                     </div>
 
@@ -38,12 +38,21 @@
                         </div>
                         <div class="col-sm-6 wow fadeInRight">
                             <div class="cell-view">
-                                <h3 class="title">We Improve Your Business</h3>
-                                <div class="text"><p>Nuestros desarrollos contemplan todas aquellas herramientas digitales que las empresas buscan y necesitan para hacer presencia activa en internet. La exclusividad de nuestros diseños hacen que seamos diferentes y por eso siempre entregamos un producto diferente. </p></div>
+                                <h3 class="title">Nuestras paginas web incluyen</h3>
+                                <div class="text"><p>En cada pagina web desarrollada por nosotros siempre te brindaremos las herramientas para que hagas de tu negocio el mejor, por eso todo desarrollo cuenta con un diseños unicos y adaptados a los diferentes dispositivos moviles además Dominio, Hosting, Correos corporativos, Fomularios de contacto, integración con Google Analytics, redes sociales y lo necesario para posicionarte en los principales motores de busqueda. </p></div>
                             </div>
                         </div>
                     </div>
 
+                </div>
+            </div>
+            <!-- BLOCK "TYPE 9" -->
+            <div class="block type-9">
+                <div class="container">
+                    <div class="entry">
+                        <h3 class="title wow fadeInLeft">Can`t Find Answers?</h3>
+                        <div class="text wow fadeInRight"><b>View All Discussions On Forum &amp; Find Answer There</b> <a class="button" href="#">our forum</a></div>
+                    </div>
                 </div>
             </div>
 
@@ -54,7 +63,7 @@
                     <div class="row wow fadeInDown">
                         <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
                             <h2 class="title">Nuestro Proceso de Creación </h2>
-                            <div class="text">Integer faucibus, dui quis pellentesque vestibulum, nulla ante aliquet turpis, in consectetur ex dui vitae erat in eleifend eros</div>
+                            <div class="text">Facilitamos a nuestro cliente, conocer cada proceso de creación de la pagina web para que de esta manera pueda tener presente los timepos de desarrollos y entrega de su proyecto.</div>
                         </div>
                     </div>
 
@@ -67,9 +76,9 @@
                                     </div>
                                     <div class="content">
                                         <div class="cell-view">
-                                            <div class="date">February 22, 2015</div>
+                                            <div class="date">Primera etapa</div>
                                             <h3 class="title">Recolección de datos</h3>
-                                            <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
+                                            <div class="text">El cliente proporcinara la información necesaria para el desarrollo de la página.</div>
                                         </div>
                                     </div>
                                 </div>
@@ -81,9 +90,9 @@
                                     </div>
                                     <div class="content">
                                         <div class="cell-view">
-                                            <div class="date">February 22, 2015</div>
+                                            <div class="date">Segunda etapa</div>
                                             <h3 class="title">Diseño</h3>
-                                            <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
+                                            <div class="text">Tu diseño sera creado con la información levantada anteriormente, para asi realizar una propuesta basada en las necesidades de tu grupo objetivo.</div>
                                         </div>
                                     </div>
                                 </div>
@@ -95,9 +104,9 @@
                                     </div>
                                     <div class="content">
                                         <div class="cell-view">
-                                            <div class="date">February 22, 2015</div>
+                                            <div class="date">Tercera etapa</div>
                                             <h3 class="title">Desarrollo</h3>
-                                            <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
+                                            <div class="text">Sera basado en el diseño aprovado, utilizando las mejores herramientas como HTML5, CSS3, JAVASCRIPT, WORDPRESS, MySQL, PHP, PHYTON, RUBY entre otros.</div>
                                         </div>
                                     </div>
                                 </div>
@@ -109,27 +118,27 @@
                                     </div>
                                     <div class="content">
                                         <div class="cell-view">
-                                            <div class="date">February 22, 2015</div>
+                                            <div class="date">Cuarta etapa</div>
                                             <h3 class="title">Implementacón</h3>
-                                            <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
+                                            <div class="text">Al final del proceso de creación del prodcuto se realizala la implementación sobre su dominio y hosting para que asi se realice la ultima revisión y sea esta aprovada.</div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6 timeline-entry wow fadeInLeft">
+                            <!-- <div class="col-md-6 timeline-entry wow fadeInLeft">
                                 <div class="timeline-entry-container">
                                     <div class="image-wrapper">
                                         <img alt="" src="img/icon-105.png" />
                                     </div>
                                     <div class="content">
                                         <div class="cell-view">
-                                            <div class="date">February 22, 2015</div>
-                                            <h3 class="title">Puesta en marcha</h3>
+                                            <div class="date">Quinta etapa</div>
+                                            <h3 class="title">Entrega del producto</h3>
                                             <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
 
@@ -189,123 +198,11 @@
             </div> -->
 
             <!-- BLOCK "TYPE 5" -->
-            <div class="block type-5">
-                <div class="container">
 
-                    <div class="row wow fadeInDown">
-                        <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
-                            <h2 class="title">Our Clients</h2>
-                            <div class="text">Integer faucibus, dui quis pellentesque vestibulum, nulla ante aliquet turpis, in consectetur ex dui vitae erat in eleifend eros</div>
-                        </div>
-                    </div>
+              <?php include ('nuestrosclientes.php'); ?>
 
-                    <div class="wow fadeInDown">
-                        <div class="swiper-container" data-autoplay="0" data-loop="0" data-speed="500" data-center="0" data-slides-per-view="responsive" data-xs-slides="1" data-sm-slides="3" data-md-slides="5" data-lg-slides="6">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide"> 
-                                    <img src="img/logo-1.png" alt="" />
-                                </div>
-                                <div class="swiper-slide"> 
-                                    <img src="img/logo-2.png" alt="" />
-                                </div>
-                                <div class="swiper-slide"> 
-                                    <img src="img/logo-3.png" alt="" />
-                                </div>
-                                <div class="swiper-slide"> 
-                                    <img src="img/logo-4.png" alt="" />
-                                </div>
-                                <div class="swiper-slide"> 
-                                    <img src="img/logo-5.png" alt="" />
-                                </div>
-                                <div class="swiper-slide"> 
-                                    <img src="img/logo-6.png" alt="" />
-                                </div>
-                            </div>
-                            <div class="pagination"></div>
-                        </div>
-                    </div>
 
-                </div>
-            </div>
-    <!-- BLOCK "TYPE 9" -->
-            <div class="block type-9">
-                <div class="container">
-                    <div class="entry">
-                        <h3 class="title wow fadeInLeft">Can`t Find Answers?</h3>
-                        <div class="text wow fadeInRight"><b>View All Discussions On Forum &amp; Find Answer There</b> <a class="button" href="#">our forum</a></div>
-                    </div>
-                </div>
-            </div>
-            <!-- BLOCK "TYPE 15" -->
-            <div class="block type-15">
-                <div class="container">
-
-                    <div class="row wow fadeInDown">
-                        <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
-                            <h2 class="title">Testimonials</h2>
-                            <div class="text">Curabitur nunc neque, mollis viverra ex in, auctor elementum mi. Donec non purus felis. Duis interdum mi id purus</div>
-                        </div>
-                    </div>
-
-                    <div class="news-wrapper wow fadeInUp">
-                        <div class="swiper-container" data-autoplay="0" data-loop="0" data-speed="500" data-center="0" data-slides-per-view="responsive" data-xs-slides="1" data-sm-slides="1" data-md-slides="2" data-lg-slides="2">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide"> 
-
-                                    <div class="blockquote-entry">
-                                        <img alt="" src="img/people-1.jpg" class="blockquote-icon img-circle" alt="" />
-                                        <blockquote>
-                                            <p>Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue. Class aptent taciti sociosqu ad litora torquent himenaeos.</p>
-                                            <footer><cite>Dorian Gray</cite>, Ceo Google Corp</footer>
-                                        </blockquote>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide">
-
-                                    <div class="blockquote-entry">
-                                        <img alt="" src="img/people-2.jpg" class="blockquote-icon img-circle" alt="" />
-                                        <blockquote>
-                                            <p>Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue. Class aptent taciti sociosqu ad litora torquent himenaeos.</p>
-                                            <footer><cite>Dorian Gray</cite>, Ceo Google Corp</footer>
-                                        </blockquote>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide"> 
-
-                                    <div class="blockquote-entry">
-                                        <img alt="" src="img/people-3.jpg" class="blockquote-icon img-circle" alt="" />
-                                        <blockquote>
-                                            <p>Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue. Class aptent taciti sociosqu ad litora torquent himenaeos.</p>
-                                            <footer><cite>Dorian Gray</cite>, Ceo Google Corp</footer>
-                                        </blockquote>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide">
-               
-                                    <div class="blockquote-entry">
-                                        <img alt="" src="img/people-4.jpg" class="blockquote-icon img-circle" alt="" />
-                                        <blockquote>
-                                            <p>Nulla ut ante vel lorem tempus lobortis. Sed quam metus, faucibus et pulvinar ut, volutpat ut orci. Nulla ornare ex lectus. Integer non neque sed eros sollicitudin congue. Class aptent taciti sociosqu ad litora torquent himenaeos.</p>
-                                            <footer><cite>Dorian Gray</cite>, Ceo Google Corp</footer>
-                                        </blockquote>
-                                    </div>
-            
-                                </div>
-                            </div>
-                            <div class="pagination"></div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-        </div>
-
-    </div>
-
+          <?php include ('testimonios.php'); ?>
 
     <!-- FOOTER -->
 <?php include("footer.php"); ?>

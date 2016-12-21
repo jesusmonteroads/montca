@@ -73,13 +73,13 @@
                                 <div class="form-wrapper">
                                     <div class="row">
                                         <div class="block-header col-md-8 col-md-offset-2">
-                                            <h2 class="title">Contact Form</h2>
+                                            <h2 class="title">Formulario de contacto</h2>
                                             <div class="text">Curabitur nunc neque, mollis viverra ex in, auctor elementum mi. Donec non purus felis. Duis interdum mi id purub</div>
                                         </div>
                                     </div>
                                     <form>
                                         <div class="field-entry">
-                                            <label for="field-1">Your Name *</label>
+                                            <label for="field-1">Nombre *</label>
                                             <input type="text" required value="" id="field-1" />
                                         </div>
                                         <div class="field-entry">
@@ -91,10 +91,10 @@
                                             <input type="email" required value="" id="field-2" />
                                         </div>
                                         <div class="field-entry">
-                                            <label for="field-3">Message</label>
+                                            <label for="field-3">Mensaje</label>
                                             <textarea id="field-3"></textarea>
                                         </div>
-                                        
+
                                         <div class="row">
                                             <div class="col-md-8 col-md-offset-2">
                                                 <div class="button">Enviar<input type="submit" value="" /></div>
@@ -119,7 +119,7 @@
                     <a data-lat="57.653226" data-lng="-77.383184" data-string="2. Here is some address or email or phone or something else..."></a>
                 </div>
             </div> -->
-            
+
             <!-- BLOCK "TYPE 3" -->
            <!--  <div class="block type-3">
                 <div class="container">
