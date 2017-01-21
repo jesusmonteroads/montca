@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="footer-entry col-md-3">
                     <h3 class="title">Montca</h3>
-                    <div class="text"></div>
+                    <div class="text">En montca encuentras el mejor aliado para desarrollar tus ideas y proyectos.</div>
                 </div>
                 <div class="footer-entry col-md-2 col-sm-3 col-xs-6">
                     <h3 class="title">Menu</h3>
@@ -14,7 +14,7 @@
                         <li><a href="host-vps.html">Posicionamiento</a></li>
                         <li><a href="host-dedicated.html">Hosting</a></li>
                         <li><a href="hosting.html">Dominio</a></li>
-                        
+
                     </ul>
                 </div>
                 <div class="footer-entry col-md-2 col-sm-3 col-xs-6">
@@ -24,7 +24,7 @@
                         <li><a href="host-testimonials.html">Blog</a></li>
                         <li><a href="host-about.html">Trabaja con nosotros</a></li>
                         <li><a href="hosting.html">Contacto</a></li>
-                        
+
                     </ul>
                 </div>
                 <div class="clearfix visible-xs"></div>
@@ -69,7 +69,7 @@
                         <li><a href="host-domains.html">Domains</a></li>
                         <li><a href="host-about.html">Pages</a></li>
                         <li><a href="blog.html">Blog</a></li>
-                        <li><a href="contact.html">Contact Us</a></li>                                       
+                        <li><a href="contact.html">Contact Us</a></li>
                     </ul> -->
                 </div>
                 <div class="col-md-4">
@@ -116,7 +116,7 @@
             <div class="entry active" style="background-color: #ff6c3a;" data-colour=""></div>
             <div class="entry" style="background-color: #00bbd2;" data-colour="colour-1"></div>
             <div class="entry" style="background-color: #4caf50;" data-colour="colour-2"></div>
-            <div class="entry" style="background-color: #ba68c8;" data-colour="colour-3"></div>            
+            <div class="entry" style="background-color: #ba68c8;" data-colour="colour-3"></div>
         </div>
         <div class="open"><img src="img/icon-134.png" /></div>
     </div> -->

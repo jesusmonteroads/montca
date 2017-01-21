@@ -50,8 +50,8 @@
             <div class="block type-9">
                 <div class="container">
                     <div class="entry">
-                        <h3 class="title wow fadeInLeft">Can`t Find Answers?</h3>
-                        <div class="text wow fadeInRight"><b>View All Discussions On Forum &amp; Find Answer There</b> <a class="button" href="#">our forum</a></div>
+                        <h3 class="title wow fadeInLeft">Todas las herramientas a tu disposición</h3>
+                        <div class="text wow fadeInRight"><b>Inicia tu idea de negocio ya!</b> <a class="button" href="contacto.php">Contactenos</a></div>
                     </div>
                 </div>
             </div>

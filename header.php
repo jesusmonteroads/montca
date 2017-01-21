@@ -75,10 +75,10 @@
                                     </div>
                                 </div> -->
                             </div>
-                            <div class="menu-entry">
+                            <!-- <div class="menu-entry">
                                 <a href="dominios.php">Dominios</a>
-                            </div>
-                             
+                            </div> -->
+
                             <!-- <div class="menu-entry">
                                 <a href="#">Pages</a>
                                 <span class="submenu-icon"><span class="glyphicon glyphicon-chevron-down"></span></span>
@@ -108,7 +108,7 @@
                             <div class="menu-entry">
                                 <a href="contacto.php">Contacto</a>
                             </div>
-                                                                                
+
                         </nav>
                     </div>
                     <div class="header-right">
@@ -141,4 +141,3 @@
                 </div>
             </div>
         </div>
-    

@@ -91,7 +91,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="slide-block nopadding col-sm-6 col-sm-pull-6">
+                                        <!-- <div class="slide-block nopadding col-sm-6 col-sm-pull-6">
                                             <div class="vertical-align">
                                                 <div class="content text-entry">
                                                     <div class="price">Tu dominio<b> Gratis</b><small></small></div>
@@ -100,7 +100,7 @@
                                                     <a class="button" href="#">Empecemos</a>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -112,22 +112,22 @@
                 <div class="banner-tabs">
                     <div class="container-fluid">
                         <div class="row">
-                            <div class="tab-entry active col-md-3">
+                            <div class="tab-entry active col-md-4">
                                 <div class="title">Paginas Web</div>
                                 <div class="text">HTML5, CSS3, JS, WORDPRESS</div>
                             </div>
-                            <div class="tab-entry col-md-3">
+                            <div class="tab-entry col-md-4">
                                 <div class="title">Posicionamiento</div>
                                 <div class="text">GOOGLE, FACEBOOK, INSTAGRAM, TWITTER</div>
                             </div>
-                            <div class="tab-entry col-md-3">
+                            <div class="tab-entry col-md-4">
                                 <div class="title">Hosting</div>
                                 <div class="text">COMPARTIDO, VPS, DEDICADO</div>
                             </div>
-                            <div class="tab-entry col-md-3">
+                            <!-- <div class="tab-entry col-md-4">
                                 <div class="title">Dominio</div>
                                 <div class="text">.COM, .CO, .NET, .COM.CO, .ORG </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

@@ -24,42 +24,7 @@
             </div>
  -->
             <!-- BLOCK "TYPE 3" -->
-            <div class="block type-3">
-                <div class="container">
 
-                    <div class="row wow fadeInDown">
-                        <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
-                            <h2 class="title">Contacto</h2>
-                            <div class="text">Curabitur nunc neque, mollis viverra ex in, auctor elementum mi. Donec non purus felis. Duis interdum mi id purub</div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="icon-entry col-sm-4 wow fadeInLeft" data-wow-delay="0.3s">
-                            <img class="img-circle" alt="" src="img/icon-120.png">
-                            <div class="content">
-                                <h3 class="title">Location</h3>
-                                <div class="text">2500 Ridgepoint Drive <br/> Austin, TX 78754 <br/> United States of America</div>
-                            </div>
-                        </div>
-                        <div class="icon-entry col-sm-4 wow fadeInUp" data-wow-delay="0.4s">
-                            <img class="img-circle" alt="" src="img/icon-121.png">
-                            <div class="content">
-                                <h3 class="title">Our Phones</h3>
-                                <div class="text"><b>Toll Free:</b> +48 555 8453 264 <br/> <b>Main Office:</b> +48 555 3584 128 <br/> <b>Tech Department:</b> +48 555 8455 235</div>
-                            </div>
-                        </div>
-                        <div class="icon-entry col-sm-4 wow fadeInRight" data-wow-delay="0.3s">
-                            <img class="img-circle" alt="" src="img/icon-122.png">
-                            <div class="content">
-                                <h3 class="title">Email</h3>
-                                <div class="text"><b>Suport:</b> support@nrghost.com <br/> <b>Clients:</b> cliens@nrghost.com <br/> <b>Technical Support:</b> tech@nrghost.com</div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
 
             <!-- BLOCK "TYPE 18" -->
             <div class="block">
@@ -74,7 +39,7 @@
                                     <div class="row">
                                         <div class="block-header col-md-8 col-md-offset-2">
                                             <h2 class="title">Formulario de contacto</h2>
-                                            <div class="text">Curabitur nunc neque, mollis viverra ex in, auctor elementum mi. Donec non purus felis. Duis interdum mi id purub</div>
+                                            <div class="text"><b>E-mail: </b><a href="mailto:contacto@montca.co"></a>contacto@montca.co | <b>WhatsApp:</b> 301 6861 707</div>
                                         </div>
                                     </div>
                                     <form>
@@ -109,6 +74,7 @@
                 </div>
             </div>
 
+            
             <!-- BLOCK "TYPE 6" -->
            <!--  <div>
                 <div id="map-canvas" data-lat="43.653226" data-lng="-79.383184" data-zoom="3">

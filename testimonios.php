@@ -4,7 +4,7 @@
 
         <div class="row wow fadeInDown">
             <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
-                <h2 class="title">Testimonials</h2>
+                <h2 class="title">Testimonios</h2>
                 <div class="text">Lo que nuestros clientes dicen</div>
             </div>
         </div>

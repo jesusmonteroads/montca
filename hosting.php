@@ -6,11 +6,11 @@
 
             <!-- BLOCK "TYPE 10" - MODIFICATION WITH BACKGROUND IMAGES -->
              <!-- BLOCK "TYPE 10" -->
-            <div class="block type-10">
+            <!-- <div class="block type-10">
                 <div class="banner-tabs">
                     <div class="container-fluid">
-                        <div class="row">
-                            <div class="tab-entry active col-md-3">
+                        <div class="row"> -->
+                            <!-- <div class="tab-entry active col-md-3">
                                 <div class="title">NRG Starter</div>
                                 <div class="text">mattis gravida risus sed gravida</div>
                             </div>
@@ -25,15 +25,15 @@
                             <div class="tab-entry col-md-3">
                                 <div class="title">NRG Platinum</div>
                                 <div class="text">posuere blandit orci sed porttitor</div>
-                            </div>
-                        </div>
+                            </div> -->
+                        <!-- </div>
                     </div>
                 </div>
                 <div class="main-banner-height">
                     <div class="swiper-container" data-autoplay="0" data-loop="0" data-speed="500" data-center="0" data-slides-per-view="1">
-                        <div class="swiper-wrapper">
+                        <div class="swiper-wrapper"> -->
 
-                            <div class="swiper-slide">
+                            <!-- <div class="swiper-slide">
                                 <div class="container">
                                     <div class="slide-container">
                                         <div class="slide-block nopadding col-sm-6 col-sm-push-6">
@@ -56,9 +56,9 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
-                            <div class="swiper-slide">
+                            <!-- <div class="swiper-slide">
                                 <div class="container">
                                     <div class="slide-container">
                                         <div class="slide-block nopadding col-sm-6">
@@ -81,9 +81,9 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
-                            <div class="swiper-slide">
+                            <!-- <div class="swiper-slide">
                                 <div class="container">
                                     <div class="slide-container">
                                         <div class="slide-block nopadding col-sm-6 col-sm-push-6">
@@ -106,9 +106,9 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
-                            <div class="swiper-slide">
+                            <!-- <div class="swiper-slide">
                                 <div class="container">
                                     <div class="slide-container">
                                         <div class="slide-block nopadding col-sm-6">
@@ -131,7 +131,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
                         </div>
                         <div class="pagination"></div>
@@ -156,58 +156,62 @@
                 <div class="container">
 
                     <div class="row">
-                        <div class="price-entry col-md-3 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-delay="0.3s">
+                        <div class="price-entry col-md-6 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-delay="0.3s">
                             <img class="icon img-circle" src="img/icon-73.png" alt="" />
                             <div class="entry">
                                 <div class="top">
                                     <div class="cell-view">
-                                        <h3 class="title"><br/>Starter Plan</h3>
-                                        <div class="text">Cras ex justo, bibendum eget nunc fermentum, sollicitudin lobortis libero</div>
+                                        <h3 class="title"><br/>Plan Basico</h3>
+                                        <div class="text">$ 12.000/ Por mes</div>
                                     </div>
                                 </div>
                                 <div class="middle">
-                                    <div><b>10GB</b> Storage Space</div>
-                                    <div><b>50GB</b> Bandwidth</div>
-                                    <div><b>10</b> Free Sub-Domains</div>
-                                    <div><b>100</b> E-mail Accounts</div>
+                                    <div><b>2GB</b> Espacio en disco</div>
+                                    <div><b>2.000GB</b> Tranferencia mensual</div>
+                                    <div><b></b> Email de correo</div>
+                                    <div><b>1</b> Dominios enlazados</div>
+                                    <div><b>1</b> DB Mysql</div>
+                                    <div><b>Dominio Gratis</b></div>
                                     <div>Control Panel &amp; FTP</div>
                                 </div>
                                 <div class="bottom">
                                     <div class="cell-view">
-                                        <div class="price">From <b>$2</b><span>/per month</span></div>
-                                        <div class="clear"></div>
-                                        <a class="button" href="#">get started</a>
+                                        <div class="price">Desde <b>$ 120.000</b><span>/ Año </span></div>
+                                        <div class="clear">$ 12.000/ Por mes</div>
+                                        <a class="button" href="#">Iniciemos!</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="price-entry col-md-3 col-sm-6 col-xs-12 wow fadeInLeft">
+                        <div class="price-entry col-md-6 col-sm-6 col-xs-12 wow fadeInLeft">
                             <img class="icon img-circle" src="img/icon-74.png" alt="" />
                             <div class="entry">
                                 <div class="top">
                                     <div class="cell-view">
-                                        <h3 class="title"><br/>Advanced Plan</h3>
-                                        <div class="text">Cras ex justo, bibendum eget nunc fermentum, sollicitudin lobortis libero</div>
+                                        <h3 class="title"><br/>Plan Avanzado</h3>
+                                        <div class="text">$ 18.000/ Por mes</div>
                                     </div>
                                 </div>
                                 <div class="middle">
-                                    <div><b>20GB</b> Storage Space</div>
-                                    <div><b>75GB</b> Bandwidth</div>
-                                    <div><b>25</b> Free Sub-Domains</div>
-                                    <div><b>175</b> E-mail Accounts</div>
+                                    <div><b>10GB</b> Espacio en disco</div>
+                                    <div><b>2.000GB</b> Tranferencia mensual</div>
+                                    <div><b>10</b> Email de correo</div>
+                                    <div><b>5</b> Dominios enlazados</div>
+                                    <div><b>5</b> DB Mysql</div>
+                                    <div><b>Dominio Gratis</b></div>
                                     <div>Control Panel &amp; FTP</div>
                                 </div>
                                 <div class="bottom">
                                     <div class="cell-view">
-                                        <div class="price">From <b>$4</b><span>/per month</span></div>
+                                        <div class="price">desde <b>$ 160.000</b><span>/año</span></div>
                                         <div class="clear"></div>
-                                        <a class="button" href="#">get started</a>
+                                        <a class="button" href="#">Iniciemos!</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="clearfix visible-sm"></div>
+                        <!-- <div class="clearfix visible-sm"></div>
 
                         <div class="price-entry col-md-3 col-sm-6 col-xs-12 wow fadeInRight">
                             <img class="icon img-circle" src="img/icon-75.png" alt="" />
@@ -259,7 +263,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>
