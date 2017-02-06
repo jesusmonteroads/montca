@@ -22,9 +22,9 @@
                                         <div class="slide-block nopadding col-sm-6">
                                             <div class="vertical-align">
                                                 <div class="content text-entry">
-                                                    <div class="price">Desde <b>$82.500</b><small> Mensuales</small></div>
-                                                    <h3 class="title">Paginas Web</h3>
-                                                    <div class="text">Crea con nosotros páginas web Personales, Empresariales, Ecommerce. Con diseños a la medida de tus necesidades.</div>
+                                                    <div class="price">Desde <b>$83.000</b><small> Mensuales</small></div>
+                                                    <h3 class="title">Páginas Web Adaptables a móviles</h3>
+                                                    <div class="text">Crea con nosotros páginas web Personales, Empresariales o Ecommerce. Con diseños a la medida de tus necesidades.</div>
                                                     <a class="button" href="hosting.html">Empecemos</a>
                                                 </div>
                                             </div>
@@ -48,7 +48,7 @@
                                                 <div class="content text-entry">
                                                     <div class="price">Campañas desde <b>$250.000</b><small> Mensuales</small></div>
                                                     <h3 class="title">Posicionamiento</h3>
-                                                    <div class="text">Mejora la presencia de tu marca o empresa con estrategias organicas (Seo) e inorganicas (Adwords, Facebook Ads)</div>
+                                                    <div class="text">Mejora la presencia de tu marca o empresa con estrategias organicas (SEO) e inorganicas (Google Adwords, Facebook Ads, Instagram Ads).</div>
                                                     <a class="button" href="hosting.html">Empecemos</a>
                                                 </div>
                                             </div>
@@ -70,9 +70,9 @@
                                         <div class="slide-block nopadding col-sm-6">
                                             <div class="vertical-align">
                                                 <div class="content text-entry">
-                                                    <div class="price">Desde <b>$20.000</b><small> Mensual</small></div>
-                                                    <h3 class="title">Hosting</h3>
-                                                    <div class="text">Contamos con la mejor solución de alojamiento web para tu empresa. Con centro de datos en todas partes del mundo.</div>
+                                                    <div class="price">Desde <b>$5.000</b><small> Mensuales</small></div>
+                                                    <h3 class="title">Hosting y Cloud</h3>
+                                                    <div class="text">Contamos con la mejor solución de alojamiento web para tu empresa. Con centros de datos en todas partes del mundo que mejoran la entrega de tu aplicación.</div>
                                                     <a class="button" href="hosting.html">Empecemos</a>
                                                 </div>
                                             </div>
@@ -113,16 +113,16 @@
                     <div class="container-fluid">
                         <div class="row">
                             <div class="tab-entry active col-md-4">
-                                <div class="title">Paginas Web</div>
-                                <div class="text">HTML5, CSS3, JS, WORDPRESS</div>
+                                <div class="title">Páginas Web adaptables a móviles</div>
+                                <div class="text">HTML5, CSS3, JS, PHP, WORDPRESS, MySQL</div>
                             </div>
                             <div class="tab-entry col-md-4">
                                 <div class="title">Posicionamiento</div>
                                 <div class="text">GOOGLE, FACEBOOK, INSTAGRAM, TWITTER</div>
                             </div>
                             <div class="tab-entry col-md-4">
-                                <div class="title">Hosting</div>
-                                <div class="text">COMPARTIDO, VPS, DEDICADO</div>
+                                <div class="title">Hosting y Cloud</div>
+                                <div class="text">COMPARTIDO, VPS, CLOUD</div>
                             </div>
                             <!-- <div class="tab-entry col-md-4">
                                 <div class="title">Dominio</div>
@@ -173,7 +173,7 @@
                     <div class="row wow fadeInDown">
                         <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
                             <h2 class="title">Servicios</h2>
-                            <div class="text">Nuestro desarrollos integran las mejores tecnologias a nivel web, para satifacer tus necesidades.</div>
+                            <div class="text">Nuestros desarrollos integran las mejores tecnologias a nivel web, para satisfacer tus necesidades.</div>
                         </div>
                     </div>
 
@@ -210,7 +210,7 @@
                             <img src="img/icon-5.png" alt=""/>
                             <div class="content">
                                 <h3 class="title">Google Adwords</h3>
-                                <div class="text">Utiliza Google Adwords para promosionar tu empresa en la red de display, busqueda, video y llega a tus clientes.</div>
+                                <div class="text">Utiliza Google Adwords para promosionar tu empresa en la red de display, busqueda, video y llega a mas clientes.</div>
                             </div>
                         </div>
                         <div class="icon-entry col-xs-12 col-sm-6  col-md-4">
@@ -231,7 +231,7 @@
                             <img src="img/icon-8.png" alt=""/>
                             <div class="content">
                                 <h3 class="title">Soporte 24/7</h3>
-                                <div class="text">Tranquilo, trabajos 24/7 para que tus productos esten en las mejores condiciones para tus clientes.</div>
+                                <div class="text">Tranquilo, trabajamos 24/7 para que tus productos esten en las mejores condiciones al servicio de tus clientes.</div>
                             </div>
                         </div>
                         <div class="icon-entry col-xs-12 col-sm-6  col-md-4">
@@ -542,14 +542,14 @@
                             <div class="row">
                                 <div class="block-header">
                                     <h2 class="title">Preguntas Frecuentes</h2>
-                                    <div class="text">Si no encuentras respuesta a tu pregunta, contacanos en el chat.</div>
+                                    <div class="text">Si no encuentras respuesta a tu pregunta, contacanos via chat.</div>
                                 </div>
                             </div>
 
                             <div class="accordeon-wrapper">
                                 <div class="accordeon-entry active">
                                     <div class="title">¿La página es administrable?</div>
-                                    <div class="text" style="display: block;">Todos nuestros planes cuenta con la capacidad de administrar toda tu información. Con conocimientos basicos de internet puedes hacer cambios como imagenes, textos, videos y mas... </div>
+                                    <div class="text" style="display: block;">Todos nuestros planes cuentan con la capacidad de administrar toda tu información. Con conocimientos basicos de internet puedes hacer cambios como de imagenes, textos, videos y mas...</div>
                                 </div>
 
                                 <div class="accordeon-entry">
@@ -559,18 +559,18 @@
 
                                 <div class="accordeon-entry">
                                     <div class="title">¿Puedo usar mi propio nombre de dominio?</div>
-                                    <div class="text">Siempre y cuando se encuentre disponible, usted puede hacer uso del dominio <strong>www.miempresa.com</strong>, recuerde que todos nuestros planes incluyen el dominio para su empresa, por el primer año sera completamente GRATIS.</div>
+                                    <div class="text">Siempre y cuando se encuentre disponible, usted puede hacer uso del dominio <b>www.miempresa.com</b>, recuerde que desde el Plan Avanzado todos incluyen el dominio para su empresa, completamente <b>GRATIS</b>.</div>
                                 </div>
 
                                 <div class="accordeon-entry">
                                     <div class="title">Cuando nuestra página web saldrá en los resultados de Google?</div>
-                                    <div class="text"> El proceso de indexación por parte de Google en las nuevas páginas nuevas puede llegar a tardar en promedio hasta 15 días, esto no quiere decir que aparecerá en los principales resultados de búsquedas  si usted desea acelerar es proceso lo ideal es comenzar a realizar publicidad con nuestro producto de Google <a href="posicionamiento-web.php"> Seo o Adwords</a></div>
+                                    <div class="text"> El proceso de indexación por parte de Google en las nuevas páginas puede llegar a tardar en promedio hasta 60 días, esto no quiere decir que aparecerá en los principales resultados de búsquedas  si usted desea acelerar el proceso lo ideal es comenzar a realizar publicidad con nuestro producto de Google <a href="posicionamiento-web.php"> Seo o Adwords</a></div>
                                 </div>
 
                                 <div class="accordeon-entry">
                                     <div class="title">¿Que necesito para crear mi logo?</div>
                                     <div class="text">
-                                    Diligenciar un formulario. El cual nos permitirá conocer los objetivos y el direccionamiento que quiere darle a su imagen, todo bajo la asesoría de un profesional.</div>
+                                    Diligenciar un formulario, el cual nos permitirá conocer los objetivos y el direccionamiento que quiere darle a su imagen, todo bajo la asesoría de un profesional.</div>
                                 </div>
                             </div>
 
@@ -671,7 +671,7 @@
 
                     <div class="row wow fadeInDown">
                         <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
-                            <h2 class="title">Montca.co</h2>
+                            <h2 class="title">Lo hacemos realidad</h2>
                             <div class="text">En Montca estamos listos para hacer realidad tu nuevo proyecto.</div>
                         </div>
                     </div>

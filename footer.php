@@ -3,13 +3,12 @@
         <div class="container">
             <div class="row">
                 <div class="footer-entry col-md-3">
-                    <h3 class="title">Montca</h3>
-                    <div class="text">En montca encuentras el mejor aliado para desarrollar tus ideas y proyectos.</div>
+                    <!-- <h3 class="title">Montca</h3> -->
+                    <img src="img/logo-footer.png" alt="">
                 </div>
                 <div class="footer-entry col-md-2 col-sm-3 col-xs-6">
                     <h3 class="title">Menu</h3>
                     <ul>
-                        <li><a class="active" href="hosting.html">Inicio</a></li>
                         <li><a href="hosting.html">Paginas Web</a></li>
                         <li><a href="host-vps.html">Posicionamiento</a></li>
                         <li><a href="host-dedicated.html">Hosting</a></li>
@@ -29,20 +28,61 @@
                 </div>
                 <div class="clearfix visible-xs"></div>
                 <div class="footer-entry col-md-5 col-sm-6 col-xs-12">
-                    <h3 class="title">Subscribete</h3>
+                    <h3 class="title">Subscríbete a nuestras promociones y descuentos</h3>
                     <div class="text">Se el primero en saber de nuestras noticias y promociones</div>
-                    <div class="subscription-form">
-                        <form>
-                            <input type="email" required value="" placeholder="Your Email..."/>
-                            <input type="submit" value="" />
+
+
+                    <!-- Begin MailChimp Signup Form -->
+                    <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+                    
+                    <style>
+                        #mc_embed_signup input{
+                            border: none !important;
+                        }
+                        #mc_embed_signup form{
+                            padding: 0px;
+                        }
+                    </style>
+                    <div id="mc_embed_signup" class="subscription-form">
+                        <form action="//montca.us15.list-manage.com/subscribe/post?u=e71fe8184b259aa1a348c5010&amp;id=cb903e429d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                            <div>
+                            
+                                <input type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="Tu email..." required>
+                                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e71fe8184b259aa1a348c5010_cb903e429d" tabindex="-1" value=""></div>
+                                <div class="clear">
+                                    <input type="submit" name="subscribe" id="mc-embedded-subscribe" value="">
+                                </div>
+                            </div>
                         </form>
                     </div>
+
+                    <!--End mc_embed_signup-->
+
+
+                    <!-- <div class="subscription-form">
+                        <form>
+                            <input type="email" required value="" placeholder="Tu email..."/>
+                            <input type="submit" value="" />
+                        </form>
+                    </div> -->
                 </div>
             </div>
             <div class="row nopadding social-icons-wrapper">
                 <div class="col-xs-3 nopadding">
-                    <a class="social-icon" href="https://www.facebook.com/" target="_blank" style="background-color: #3b5998;">
+                    <a class="social-icon" href="https://www.facebook.com/montcaco-606762889480425/" target="_blank" style="background-color: #3b5998;">
                         <img src="img/icon-17.png" alt="" />
+                    </a>
+                </div>
+                <div class="col-xs-3 nopadding">
+                    <a class="social-icon" href="https://www.instagram.com/montca.co/" target="_blank" style="background-color: #8a3ab9;">
+                        <img src="img/icon-20.png" alt="" />
+                    </a>
+                </div>
+                
+                <div class="col-xs-3 nopadding">
+                    <a class="social-icon" href="https://twitter.com/montcaweb" target="_blank" style="background-color: #55acee;">
+                        <img src="img/icon-19.png" alt="" />
                     </a>
                 </div>
                 <div class="col-xs-3 nopadding">
@@ -50,16 +90,7 @@
                         <img src="img/icon-18.png" alt="" />
                     </a>
                 </div>
-                <div class="col-xs-3 nopadding">
-                    <a class="social-icon" href="https://twitter.com/" target="_blank" style="background-color: #55acee;">
-                        <img src="img/icon-19.png" alt="" />
-                    </a>
-                </div>
-                <div class="col-xs-3 nopadding">
-                    <a class="social-icon" href="https://www.linkedin.com/" target="_blank" style="background-color: #007bb5;">
-                        <img src="img/icon-20.png" alt="" />
-                    </a>
-                </div>
+                
             </div>
             <div class="row">
                 <div class="col-md-8">
@@ -73,7 +104,7 @@
                     </ul> -->
                 </div>
                 <div class="col-md-4">
-                    <div class="copyright">&copy; 2016 All rights reserved. Montca</div>
+                    <div class="copyright">&copy; <?php echo date("Y"); ?> Todos los derechos reservados. Montca</div>
                 </div>
             </div>
         </div>
@@ -126,6 +157,7 @@
     <script src="js/idangerous.swiper.min.js"></script>
     <script src="js/global.js"></script>
     <script src="js/wow.min.js"></script>
+    <script src="js/form.js"></script>
     <script>
         var wow = new WOW(
             {

@@ -231,7 +231,7 @@
 	.menu-entry:hover{z-index: 1;}
 	.menu-entry:hover .submenu{max-height: 300px;}
 
-	.header-right{text-align: right; font-size: 14px; line-height: 18px; color: #232c3b; padding-top: 37px;}
+	.header-right{text-align: right; font-size: 14px; line-height: 18px; color: #232c3b; padding-top: 52px;}
 	.header-right a.telephone-link{color: #232c3b;}
 	.header-right a.telephone-link:hover{color: #ff6c3a;}
 	.header-right a.link{color: #232c3b;}
@@ -250,7 +250,7 @@
 	@media (min-width: 992px) {
 		header.reduced, header.reduced #logo-wrapper{height: 90px;}
 		header.reduced nav{margin-top: 37px;}
-		header.reduced .header-right{padding-top: 22px;}
+		header.reduced .header-right{padding-top: 36px;}
 		header.reduced .menu-entry a{padding-bottom: 5px;}
 		header.reduced .menu-entry .submenu{top: 25px;}
 		header, #logo-wrapper, nav, .header-right{-webkit-transition:all 0.15s ease-out; transition:all 0.15s ease-out; -ms-transition:all 0.15s ease-out;}
@@ -274,6 +274,7 @@
 		.header-inline-entry div{display: block;}
 		.header-left{width: 55%;}
 		.header-right{width: 45%;}
+
 	}
 	@media (max-width: 991px) {
 		header{height: 50px; text-align: center;}
@@ -1374,7 +1375,53 @@ footer .social-icon:before, .menu-entry div, .menu-entry .submenu-icon span, .su
 
 
 
-
+/*  ===============
+	ESTILOS NUEVOS
+	===============  */
 .entry{
 	padding-top: 27px;
+}
+.block.type-14.background-block{
+	padding: 60px 0 10px 0;
+}
+.block-header.col-md-6.col-md-offset-3.col-sm-12.col-sm-offset-0{
+	margin-bottom: 20px;
+}
+.block.block-call-pagina, .type-9-posicionamiento{
+	height: 80px !important;
+}
+.block.block-call-pagina .entry, .type-9-posicionamiento .entry{
+	padding-top: 18px !important;
+}
+.desc-pagina{
+	padding-top: 0px;
+}
+.creacion-pagina{
+	margin-bottom: 40px !important;
+}
+.block.type-10-paginas.style-1.background-block{
+	height: 400px;
+}
+.block-header-paginas.col-md-6.col-md-offset-3.col-sm-12.col-sm-offset-0{
+	margin-bottom: -38px;
+}
+.error{
+	font-size: 12px;
+	background: #FF6D3B;
+	color: #ffffff;
+	padding: 6px 12px;
+	position: relative;
+	top: 10px;
+}
+.result_ok{
+	background: #1EA700;
+	color: #ffffff;
+	padding: 5px 10px;
+	font-size: 14px;
+	font-weight: bold;
+	width: 50%;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	top: 5px;
 }

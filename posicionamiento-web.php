@@ -9,7 +9,7 @@
                     <div class="row wow fadeInDown">
                         <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
                             <h2 class="title">Posicionamiento Web</h2>
-                            <div class="text">Tu producto o servicio sera más visible si se implementas las mejores herramientas de marketing web.</div>
+                            <div class="text">Tu producto o servicio sera más visible si se implementan las mejores herramientas de marketing web.</div>
                         </div>
                     </div>
 
@@ -18,7 +18,7 @@
                             <img class="img-circle" src="img/icon-69.png" alt=""/>
                             <div class="content">
                                 <h3 class="title">Posicionamiento Organico SEO</h3>
-                                <div class="text">Los primeros resultados de Google siempre son los más visitados y nosotros lo hacemos facil con tecnicas avanzadas.</div>
+                                <div class="text">Los primeros resultados de Google siempre son los más visitados y nosotros lo hacemos facil con técnicas avanzadas.</div>
                             </div>
                         </div>
                         <div class="icon-entry col-sm-6 col-md-4 wow fadeInLeft">
@@ -57,7 +57,7 @@
                     <div class="row">
                         <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
                             <h2 class="title wow fadeInDown">Posiciona con nosotros</h2>
-                            <div class="text wow fadeInUp">Nuestro equipo esta listo para tu empresa llegue a los primero lugares con las mejores preacticas.</div>
+                            <div class="text wow fadeInUp">Nuestro equipo esta listo para que tu empresa llegue a los primeros lugares con las mejores preacticas.</div>
                         </div>
                     </div>
                 </div>
@@ -227,7 +227,7 @@
                         </div>
                         <div class="col-sm-6 col-sm-pull-6 wow fadeInLeft">
                             <div class="cell-view">
-                                <h3 class="title">Llegue a todos los clientes, sin importar sus dispositivo</h3>
+                                <h3 class="title">Llegue a todos los clientes, sin importar sus dispositivos</h3>
                                 <div class="text">
                                     <p>Google tiene la infraestructura de hacer que tu anuncio sea visible sin importar si el dispositivo que te conectes.</p>
                                 </div>
@@ -243,7 +243,7 @@
                                     <div class="col-sm-6">
                                         <ul>
                                             <li>Destaque su empresa.</li>
-                                            <li>Conecte con sus amigos-</li>
+                                            <li>Conecte con sus amigos.</li>
                                             <li>Anuncie de forma local o global.</li>
                                         </ul>
                                     </div>
@@ -262,11 +262,11 @@
             </div>
 
             <!-- BLOCK "TYPE 9" -->
-            <div class="block type-9">
+            <div class="block type-9 type-9-posicionamiento">
                 <div class="container">
                     <div class="entry">
                         <h3 class="title wow fadeInLeft">Contactatos</h3>
-                        <div class="text wow fadeInRight"><b>Para realizar el primer anuncio </b></div>
+                        <div class="text wow fadeInRight"><b>Para realizar el primer anuncio </b><a class="button" href="contacto.php">Contactenos</a></div>
                     </div>
                 </div>
             </div>
