@@ -25,7 +25,7 @@
                                                     <div class="price">Desde <b>$83.000</b><small> Mensuales</small></div>
                                                     <h3 class="title">Páginas Web Adaptables a móviles</h3>
                                                     <div class="text">Crea con nosotros páginas web Personales, Empresariales o Ecommerce. Con diseños a la medida de tus necesidades.</div>
-                                                    <a class="button" href="hosting.html">Empecemos</a>
+                                                    <a class="button" href="http://montca.co/paginaweb.php">Empecemos</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -49,7 +49,7 @@
                                                     <div class="price">Campañas desde <b>$250.000</b><small> Mensuales</small></div>
                                                     <h3 class="title">Posicionamiento</h3>
                                                     <div class="text">Mejora la presencia de tu marca o empresa con estrategias organicas (SEO) e inorganicas (Google Adwords, Facebook Ads, Instagram Ads).</div>
-                                                    <a class="button" href="hosting.html">Empecemos</a>
+                                                    <a class="button" href="http://montca.co/posicionamiento-web.php">Empecemos</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -73,7 +73,7 @@
                                                     <div class="price">Desde <b>$5.000</b><small> Mensuales</small></div>
                                                     <h3 class="title">Hosting y Cloud</h3>
                                                     <div class="text">Contamos con la mejor solución de alojamiento web para tu empresa. Con centros de datos en todas partes del mundo que mejoran la entrega de tu aplicación.</div>
-                                                    <a class="button" href="hosting.html">Empecemos</a>
+                                                    <a class="button" href="http://montca.co/hosting.php">Empecemos</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -81,29 +81,7 @@
                                 </div>
                             </div>
 
-                            <div class="swiper-slide">
-                                <div class="container">
-                                    <div class="slide-container">
-                                        <div class="slide-block nopadding col-sm-6 col-sm-push-6">
-                                            <div class="vertical-align">
-                                                <div class="content">
-                                                    <img src="img/slider-image-4.png" alt="" />
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- <div class="slide-block nopadding col-sm-6 col-sm-pull-6">
-                                            <div class="vertical-align">
-                                                <div class="content text-entry">
-                                                    <div class="price">Tu dominio<b> Gratis</b><small></small></div>
-                                                    <h3 class="title">Dominio</h3>
-                                                    <div class="text">Sabemos de imoportancia de iniciar con un gran nombre en la internet, por eso siempre te daremos el dominio gratis*</div>
-                                                    <a class="button" href="#">Empecemos</a>
-                                                </div>
-                                            </div>
-                                        </div> -->
-                                    </div>
-                                </div>
-                            </div>
+
 
                         </div>
                         <div class="pagination"></div>

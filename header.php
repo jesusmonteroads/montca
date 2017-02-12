@@ -125,7 +125,7 @@
                     <div class="header-right">
                         <div class="header-inline-entry">
                             <div><span class="glyphicon glyphicon-time"></span> Soporte al Cliente <b>24/7</b></div>
-                            <div><span class="glyphicon glyphicon-phone"></span><a href="tel:+485558753005" class="telephone-link">+57 301 686 1707</a></div>
+                            <div><span class="glyphicon glyphicon-phone"></span><a href="tel:+573016861707" class="telephone-link">+57 301 686 1707</a></div>
                         </div>
                         <!-- <div class="header-inline-entry">
                             <a class="button" href="login-register.html">login</a>
