@@ -656,7 +656,7 @@
 
                     <div class="block-button-container wow fadeInUp">
                         <div class="button-description">Contacto <a href="tel:+573016861707">+57 301 6861 707</a> <br/> </div>
-                        <a class="button" href="contact.html">¿Tienes alguna pregunta?</a>
+                        <a class="button" href="http://montca.co/contacto.php">¿Tienes alguna pregunta?</a>
                     </div>
 
                 </div>

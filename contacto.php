@@ -1,4 +1,4 @@
-<?php 
+<?php
 
   //require("conexion.php");
 
@@ -12,7 +12,7 @@
         }else if($_POST['mensaje'] == ''){
             $errors[4] = '<span class="error">Ingrese un mensaje</span>';
         }else{
-            $dest = "handresvegarodriguez@gmail.com"; //Email de destino
+            $dest = "contacto@montca.co"; //Email de destino
             $nombre = $_POST['nombre'];
             $email = $_POST['email'];
             $asunto1 = "Mensaje de formulario";
@@ -33,16 +33,16 @@
             $headers2 .= 'MIME-Version: 1.0' . "\n";
             $headers2 .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n"; //
             */
- 
+
             if(mail($dest,$asunto1,$cuerpo,$headers)){
 
             /*
-              foreach($_POST AS $key => $value) { 
-                $_POST[$key] = mysql_real_escape_string($value); 
-              } 
+              foreach($_POST AS $key => $value) {
+                $_POST[$key] = mysql_real_escape_string($value);
+              }
 
               $sql = "INSERT INTO `cf` (`nombre`,`email`,`asunto`,`mensaje`) VALUES ('{$_POST['nombre']}','{$_POST['email']}','{$_POST['asunto']}','{$_POST['mensaje']}')";
-                mysql_query($sql) or die(mysql_error());  
+                mysql_query($sql) or die(mysql_error());
 
             */
                 $result = '<div class="result_ok">Tu información ha sido enviada correctamente</div>';
@@ -52,8 +52,8 @@
                 $_POST['asunto'] = '';
                 $_POST['mensaje'] = '';
 
-              //$envia = mail($email,"Su mensaje fue recibido!",$template_1,$headers2); 
-              
+              //$envia = mail($email,"Su mensaje fue recibido!",$template_1,$headers2);
+
             }else{
                 $result = '<div class="result_fail">Hubo un error al enviar el mensaje </div>';
             }
@@ -148,7 +148,7 @@
                 </div>
             </div>
 
-            
+
             <!-- BLOCK "TYPE 6" -->
            <!--  <div>
                 <div id="map-canvas" data-lat="43.653226" data-lng="-79.383184" data-zoom="3">
