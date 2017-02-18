@@ -81,7 +81,7 @@
                                     <div class="cell-view">
                                         <div class="price">Desde <b>$83.000</b><span> Mensuales</span></div>
                                         <div class="clear"></div>
-                                        <a href="hosting" class="button">Contactar</a>
+                                        <a href="contacto" class="button">Contactar</a>
                                     </div>
                                 </div>
                             </div>
@@ -107,7 +107,7 @@
                                     <div class="cell-view">
                                         <div class="price">Desde <b>$125.000</b><span> Mensuales</span></div>
                                         <div class="clear"></div>
-                                        <a href="hosting" class="button">Contactar</a>
+                                        <a href="contacto" class="button">Contactar</a>
                                     </div>
                                 </div>
                             </div>
@@ -134,7 +134,7 @@
                                     <div class="cell-view">
                                         <div class="price">Desde <b>$ 166.000</b><span> Mensuales</span></div>
                                         <div class="clear"></div>
-                                        <a href="hosting" class="button">Contactar</a>
+                                        <a href="contacto" class="button">Contactar</a>
                                     </div>
                                 </div>
                             </div>
