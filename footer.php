@@ -9,7 +9,7 @@
                 <div class="footer-entry col-md-2 col-sm-3 col-xs-6">
                     <h3 class="title">Menu</h3>
                     <ul>
-                        <li><a href="paginas-web">Paginas Web</a></li>
+                        <li><a href="pagina-web">Paginas Web</a></li>
                         <li><a href="posicionamiento-web">Posicionamiento</a></li>
                         <li><a href="hosting">Hosting</a></li>
                         <li><a href="dominios">Dominio</a></li>
@@ -95,30 +95,30 @@
         <div class="footer-line">
             <div class="container">
                 <div class="row">
-                    <div class="footer-line-entry col-md-3 col-sm-6 col-xs-12">
+                    <div class="footer-line-entry col-md-4 col-sm-6 col-xs-12">
                         <img src="img/icon-22.png" alt=""/>
                         <div class="content">
                             <div class="cell-view">24/7 Soporte Personalizado</div>
                         </div>
                     </div>
-                    <div class="footer-line-entry col-md-3 col-sm-6 col-xs-12">
+                    <div class="footer-line-entry col-md-4 col-sm-6 col-xs-12">
                         <img src="img/icon-23.png" alt=""/>
                         <div class="content">
                             <div class="cell-view"><a href="mailto:contacto@montca.co">contacto@montca.co</a></div>
                         </div>
                     </div>
-                    <div class="footer-line-entry col-md-3 col-sm-6 col-xs-12">
+                    <div class="footer-line-entry col-md-4 col-sm-6 col-xs-12">
                         <img src="img/icon-24.png" alt=""/>
                         <div class="content">
                             <div class="cell-view"><a href="tel:+48 555 8753 005">+57 301 686 1707</a></div>
                         </div>
                     </div>
-                    <div class="footer-line-entry col-md-3 col-sm-6 col-xs-12">
+                    <!-- <div class="footer-line-entry col-md-3 col-sm-6 col-xs-12">
                         <img src="img/icon-25.png" alt=""/>
                         <div class="content">
                             <div class="cell-view"><a href="#">Chat</a></div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

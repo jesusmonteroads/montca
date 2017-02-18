@@ -1,5 +1,32 @@
+
+  <?php 
+
+    $titulos = [
+
+    'index.php' => 'Montca - Soluciones web - Colombia',
+
+    'pagina-web.php' => 'Montca - Páginas web - Colombia',
+
+    'posicionamiento-web.php' => 'Montca - Posicionamiento web - Colombia',
+
+    'hosting.php' => 'Montca - Hosting - Colombia',
+
+    'contacto.php' => 'Montca - Contacto - Colombia'
+
+    ];
+
+
+
+    $uri = end(explode("/", $_SERVER['PHP_SELF']));
+
+   ?>
+
+<?php 
+    $url_actual = "http://" . $_SERVER["SERVER_NAME"] . $_SERVER["REQUEST_URI"];
+ ?>
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es" prefix="og: http://ogp.me/ns#">
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="format-detection" content="telephone=no" />
@@ -9,20 +36,18 @@
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="css/animate.css" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="img/favicon.png" />
-  	<title>Montca</title>
+  	<title><?php echo $titulos[$uri]; ?></title>
+    <meta description="Crea con nosotros páginas web Personales, Empresariales o Ecommerce. Con diseños a la medida de tus necesidades.">
+
+    <meta property="og:title" content="<?php echo $titulos[$uri]; ?>" />
+    <meta property="og:description" content="Crea con nosotros páginas web Personales, Empresariales o Ecommerce. Con diseños a la medida de tus necesidades." />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale:alternate" content="es_ES" />
+    <meta property="og:url" content="<?php echo $url_actual; ?>" />
+    <meta property="og:image" content="http://conceptodefinicion.de/wp-content/uploads/2015/10/pagina-web-2-e1444136736137.jpg" />
 </head>
 <body class="header-moved">
 
-    <!-- LOADER -->
-  <!--   <div id="loader-wrapper">
-        <div class="loader-content">
-            <div class="circle1"></div>
-            <div class="circle2"></div>
-            <div class="title">Loading</div>
-        </div>
-    </div> -->
-
-    <!-- HEADER -->
     <header>
         <div class="container">
             <div id="logo-wrapper">
