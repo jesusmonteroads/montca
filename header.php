@@ -75,7 +75,7 @@
                                 <a href="posicionamiento-web.php">Posicionamiento</a>
                             </div>
                              <div class="menu-entry">
-                                <a href="hosting.php">Hosting</a>
+                                <a href="hosting.php">Hosting.</a>
                                 <!-- <span class="submenu-icon"><span class="glyphicon glyphicon-chevron-down"></span></span> -->
                                <!--  <div class="submenu">
                                     <div>
