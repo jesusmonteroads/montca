@@ -81,7 +81,7 @@
                                     <div class="cell-view">
                                         <div class="price">Desde <b>$83.000</b><span> Mensuales</span></div>
                                         <div class="clear"></div>
-                                        <a href="hosting.html" class="button">view all linux servers</a>
+                                        <a href="hosting" class="button">Contactar</a>
                                     </div>
                                 </div>
                             </div>
@@ -107,7 +107,7 @@
                                     <div class="cell-view">
                                         <div class="price">Desde <b>$125.000</b><span> Mensuales</span></div>
                                         <div class="clear"></div>
-                                        <a href="hosting.html" class="button">Contactar</a>
+                                        <a href="hosting" class="button">Contactar</a>
                                     </div>
                                 </div>
                             </div>
@@ -134,7 +134,7 @@
                                     <div class="cell-view">
                                         <div class="price">Desde <b>$ 166.000</b><span> Mensuales</span></div>
                                         <div class="clear"></div>
-                                        <a href="hosting.html" class="button">Contactar</a>
+                                        <a href="hosting" class="button">Contactar</a>
                                     </div>
                                 </div>
                             </div>
@@ -151,7 +151,7 @@
                 <div class="container">
                     <div class="entry">
                         <h3 class="title wow fadeInLeft">Todas las herramientas a tu disposición</h3>
-                        <div class="text wow fadeInRight"><b>Inicia tu idea de negocio ya!</b> <a class="button" href="contacto.php">Contactenos</a></div>
+                        <div class="text wow fadeInRight"><b>Inicia tu idea de negocio ya!</b> <a class="button" href="contacto">Contactenos</a></div>
                     </div>
                 </div>
             </div>
@@ -225,20 +225,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- <div class="col-md-6 timeline-entry wow fadeInLeft">
-                                <div class="timeline-entry-container">
-                                    <div class="image-wrapper">
-                                        <img alt="" src="img/icon-105.png" />
-                                    </div>
-                                    <div class="content">
-                                        <div class="cell-view">
-                                            <div class="date">Quinta etapa</div>
-                                            <h3 class="title">Entrega del producto</h3>
-                                            <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
+                           
                         </div>
                     </div>
 
@@ -249,55 +236,7 @@
                 </div>
             </div>
 
-            <!-- BLOCK "TYPE 3" -->
-           <!--  <div class="block type-3">
-                <div class="container">
-
-                    <div class="row wow fadeInDown">
-                        <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
-                            <h2 class="title">Amazing Team</h2>
-                            <div class="text">Integer faucibus, dui quis pellentesque vestibulum, nulla ante aliquet turpis, in consectetur ex dui vitae erat in eleifend eros</div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="icon-entry col-sm-6 col-md-3 wow fadeInLeft" data-wow-delay="0.3s">
-                            <img class="img-circle" src="img/icon-97.png" alt=""/>
-                            <div class="content">
-                                <h3 class="title">Dorian Gray</h3>
-                                <div class="text">Ceo NRGHost Corp</div>
-                            </div>
-                        </div>
-                        <div class="icon-entry col-sm-6 col-md-3 wow fadeInLeft">
-                            <img class="img-circle" src="img/icon-98.png" alt=""/>
-                            <div class="content">
-                                <h3 class="title">Alicia Gray</h3>
-                                <div class="text">Ceo NRGHost Corp</div>
-                            </div>
-                        </div>
-
-                        <div class="clearfix visible-sm"></div>
-
-                        <div class="icon-entry col-sm-6 col-md-3 wow fadeInRight">
-                            <img class="img-circle" src="img/icon-99.png" alt=""/>
-                            <div class="content">
-                                <h3 class="title">Eric John</h3>
-                                <div class="text">Head Programmer</div>
-                            </div>
-                        </div>
-                        <div class="icon-entry col-sm-6 col-md-3 wow fadeInRight" data-wow-delay="0.3s">
-                            <img class="img-circle" src="img/icon-100.png" alt=""/>
-                            <div class="content">
-                                <h3 class="title">John Dou</h3>
-                                <div class="text">Head Engineer</div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div> -->
-
-            <!-- BLOCK "TYPE 5" -->
+        
 
               <?php include ('nuestrosclientes.php'); ?>
 

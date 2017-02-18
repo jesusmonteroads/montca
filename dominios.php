@@ -2,39 +2,6 @@
 
         <div class="blocks-container">
 
-            <!-- BLOCK "TYPE 8" -->
-            <!-- <div class="block type-8">
-                <div class="container">
-                    <div class="row">
-                        <div class="form-description col-md-4 wow fadeInLeft">
-                            <h3 class="title">Search You Domain Name</h3>
-                            <div class="text"><b>Domains only from</b> <b><span>$3.99</span></b><small>/per year</small></div>
-                        </div>
-                        <div class="block-form-wrapper col-md-8 wow fadeInRight">
-                            <div class="block-form">
-                                <form>
-                                    <input type="text" placeholder="Enter your domain name ..." value="">
-                                    <input type="submit" value="">
-                                    <div class="prefix">
-                                        <div class="selected-text">.com</div>
-                                        <div class="prefix-drop-down">
-                                            <div class="active">.com</div>
-                                            <div>.net</div>
-                                            <div>.org</div>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                            <ul class="links-examples">
-                                <li><a href="host-domains.html">View Domain Price List</a></li>
-                                <li><a href="host-domains.html">Bulk Domain Search</a></li>
-                                <li><a href="host-domains.html">Transfer Domain</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
- -->
             <!-- BLOCK "TYPE 2" -->
             <div class="block type-2">
                 <div class="container">

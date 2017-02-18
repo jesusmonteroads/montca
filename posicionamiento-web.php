@@ -38,13 +38,7 @@
                                 <div class="text">Puedes posicionarte pagando por aparecer en los primeros resultado en la red de busqueda, display y youtube.</div>
                             </div>
                         </div>
-                        <!-- <div class="icon-entry col-sm-6 col-md-3 wow fadeInRight" data-wow-delay="0.3s">
-                            <img class="img-circle" src="img/icon-72.png" alt=""/>
-                            <div class="content">
-                                <h3 class="title">Great Support</h3>
-                                <div class="text">Duis posuere blandit orci sed tincidunt. Curabitur porttitor nisi ac nunc ornare, in fringilla nisl blandit.</div>
-                            </div>
-                        </div> -->
+                        
                     </div>
 
                 </div>
@@ -63,119 +57,7 @@
                 </div>
             </div>
 
-            <!-- BLOCK "TYPE 2" -->
-            <!-- <div class="block type-2">
-                <div class="container">
-
-                    <div class="row">
-                        <div class="price-entry col-md-3 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-delay="0.3s">
-                            <img class="icon img-circle" src="img/icon-73.png" alt="" />
-                            <div class="entry">
-                                <div class="top">
-                                    <div class="cell-view">
-                                        <h3 class="title"><br/>Starter Plan</h3>
-                                        <div class="text">Cras ex justo, bibendum eget nunc fermentum, sollicitudin lobortis libero</div>
-                                    </div>
-                                </div>
-                                <div class="middle">
-                                    <div><b>10GB</b> Storage Space</div>
-                                    <div><b>50GB</b> Bandwidth</div>
-                                    <div><b>10</b> Free Sub-Domains</div>
-                                    <div><b>100</b> E-mail Accounts</div>
-                                    <div>Control Panel &amp; FTP</div>
-                                </div>
-                                <div class="bottom">
-                                    <div class="cell-view">
-                                        <div class="price">From <b>$2</b><span>/per month</span></div>
-                                        <div class="clear"></div>
-                                        <a class="button" href="#">get started</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="price-entry col-md-3 col-sm-6 col-xs-12 wow fadeInLeft">
-                            <img class="icon img-circle" src="img/icon-74.png" alt="" />
-                            <div class="entry">
-                                <div class="top">
-                                    <div class="cell-view">
-                                        <h3 class="title"><br/>Advanced Plan</h3>
-                                        <div class="text">Cras ex justo, bibendum eget nunc fermentum, sollicitudin lobortis libero</div>
-                                    </div>
-                                </div>
-                                <div class="middle">
-                                    <div><b>20GB</b> Storage Space</div>
-                                    <div><b>75GB</b> Bandwidth</div>
-                                    <div><b>25</b> Free Sub-Domains</div>
-                                    <div><b>175</b> E-mail Accounts</div>
-                                    <div>Control Panel &amp; FTP</div>
-                                </div>
-                                <div class="bottom">
-                                    <div class="cell-view">
-                                        <div class="price">From <b>$4</b><span>/per month</span></div>
-                                        <div class="clear"></div>
-                                        <a class="button" href="#">get started</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="clearfix visible-sm"></div>
-
-                        <div class="price-entry col-md-3 col-sm-6 col-xs-12 wow fadeInRight">
-                            <img class="icon img-circle" src="img/icon-75.png" alt="" />
-                            <div class="entry">
-                                <div class="top">
-                                    <div class="cell-view">
-                                        <h3 class="title"><br/>Premium Plan</h3>
-                                        <div class="text">Cras ex justo, bibendum eget nunc fermentum, sollicitudin lobortis libero</div>
-                                    </div>
-                                </div>
-                                <div class="middle">
-                                    <div><b>40GB</b> Storage Space</div>
-                                    <div><b>150GB</b> Bandwidth</div>
-                                    <div><b>50</b> Free Sub-Domains</div>
-                                    <div><b>500</b> E-mail Accounts</div>
-                                    <div>Control Panel &amp; FTP</div>
-                                </div>
-                                <div class="bottom">
-                                    <div class="cell-view">
-                                        <div class="price">From <b>$7</b><span>/per month</span></div>
-                                        <div class="clear"></div>
-                                        <a class="button" href="#">get started</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="price-entry col-md-3 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay="0.3s">
-                            <img class="icon img-circle" src="img/icon-76.png" alt="" />
-                            <div class="entry">
-                                <div class="top">
-                                    <div class="cell-view">
-                                        <h3 class="title"><br/>Proffecional Plan</h3>
-                                        <div class="text">Cras ex justo, bibendum eget nunc fermentum, sollicitudin lobortis libero</div>
-                                    </div>
-                                </div>
-                                <div class="middle">
-                                    <div><b>100GB</b> Storage Space</div>
-                                    <div><b>200GB</b> Bandwidth</div>
-                                    <div><b>100</b> Free Sub-Domains</div>
-                                    <div><b>1000</b> E-mail Accounts</div>
-                                    <div>Control Panel &amp; FTP</div>
-                                </div>
-                                <div class="bottom">
-                                    <div class="cell-view">
-                                        <div class="price">From <b>$7</b><span>/per month</span></div>
-                                        <div class="clear"></div>
-                                        <a class="button" href="#">get started</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
- -->
+           
             <!-- BLOCK "TYPE 11" -->
             <div class="block type-11">
                 <div class="container">
@@ -198,7 +80,7 @@
                             <div class="cell-view">
                                 <h3 class="title">Conecte con clientes en el mundo</h3>
                                 <div class="text"><p>Puede llegar a clientes potenciales en en todo el mundo. Las distintas opciones le permiten orientar sus anuncios a los clientes en el momento y el lugar indicado.</p></div>
-                                <a href="#" class="button">Conecta</a>
+                                <a href="contacto" class="button">Conecta</a>
                             </div>
                         </div>
                     </div>
@@ -214,7 +96,7 @@
                                 <h3 class="title">Eficaz, medible y flexible</h3>
                                 <div class="text"><p>
                                   Con las diferentes herramientas de Google podemos medir la cantidad de personas que ven tu anuncio, que visitan la pagina y asi poder ser eficaz en tus futuras pautas.</p></div>
-                                <a href="#" class="button">mide con nosotros!</a>
+                                <a href="contacto" class="button">Mide con nosotros!</a>
                             </div>
                         </div>
                     </div>
@@ -266,7 +148,7 @@
                 <div class="container">
                     <div class="entry">
                         <h3 class="title wow fadeInLeft">Contactatos</h3>
-                        <div class="text wow fadeInRight"><b>Para realizar el primer anuncio </b><a class="button" href="contacto.php">Contactenos</a></div>
+                        <div class="text wow fadeInRight"><b>Para realizar el primer anuncio </b><a class="button" href="contacto">Contactenos</a></div>
                     </div>
                 </div>
             </div>

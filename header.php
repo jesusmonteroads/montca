@@ -38,75 +38,23 @@
                     <div class="header-left">
                         <nav>
                             <div class="menu-entry active">
-                                <a href="index.php">Inicio</a>
-                                <!-- <span class="submenu-icon"><span class="glyphicon glyphicon-chevron-down"></span></span> -->
-                                <!-- <div class="submenu">
-                                    <div>
-                                        <a class="active" href="index.html">Style 1</a>
-                                        <a href="index-1.html">Style 2</a>
-                                        <a href="index-2.html">Style 3</a>
-                                    </div>
-                                </div> -->
+                                <a href="/">Inicio</a>
+                                
                             </div>
                             <div class="menu-entry">
-                                <a href="paginaweb.php">Paginas Web</a>
-                              <!--   <span class="submenu-icon"><span class="glyphicon glyphicon-chevron-down"></span></span> -->
-                               <!--  <div class="submenu">
-                                    <div>
-                                        <a href="hosting.html">Plan 1</a>
-                                        <a href="host-shared.html">Plan 2</a>
-                                        <a href="host-vps.html">Plan 3</a>
-                                        <a href="host-dedicated.html">Dedicated</a>
-                                    </div>
-                                </div> -->
+                                <a href="pagina-web">Paginas Web</a>
+                              
                             </div>
                             <div class="menu-entry">
-                                <a href="posicionamiento-web.php">Posicionamiento</a>
+                                <a href="posicionamiento-web">Posicionamiento</a>
                             </div>
                              <div class="menu-entry">
-                                <a href="hosting.php">Hosting.</a>
-                                <!-- <span class="submenu-icon"><span class="glyphicon glyphicon-chevron-down"></span></span> -->
-                               <!--  <div class="submenu">
-                                    <div>
-                                        <a href="hosting.html">Plan 1</a>
-                                        <a href="host-shared.html">Plan 2</a>
-                                        <a href="host-vps.html">Plan 3</a>
-                                        <a href="host-dedicated.html">Dedicated</a>
-                                    </div>
-                                </div> -->
+                                <a href="hosting">Hosting</a>
+                                
                             </div>
-                            <!-- <div class="menu-entry">
-                                <a href="dominios.php">Dominios</a>
-                            </div> -->
-
-                            <!-- <div class="menu-entry">
-                                <a href="#">Pages</a>
-                                <span class="submenu-icon"><span class="glyphicon glyphicon-chevron-down"></span></span>
-                                <div class="submenu">
-                                    <div>
-                                        <a href="host-about.html">About</a>
-                                        <a href="host-faq.html">FAQ</a>
-                                        <a href="host-testimonials.html">Testimonials</a>
-                                        <a href="host-datacenters.html">Datacenters</a>
-                                        <a href="host-support.html">Support</a>
-                                        <a href="login-register.html">Login/Register</a>
-                                        <a href="typography.html">Typography</a>
-                                    </div>
-                                </div>
-                            </div> -->
-                            <!-- <div class="menu-entry">
-                                <a href="blog.html">Blog</a>
-                                <span class="submenu-icon"><span class="glyphicon glyphicon-chevron-down"></span></span>
-                                <div class="submenu">
-                                    <div>
-                                        <a href="blog.html">Style 1</a>
-                                        <a href="blog-1.html">Style 2</a>
-                                        <a href="blog-detail.html">Blog Detail</a>
-                                    </div>
-                                </div>
-                            </div> -->
+                            
                             <div class="menu-entry">
-                                <a href="contacto.php">Contacto</a>
+                                <a href="contacto">Contacto</a>
                             </div>
 
                         </nav>
@@ -116,12 +64,7 @@
                             <div><span class="glyphicon glyphicon-time"></span> Soporte al Cliente <b>24/7</b></div>
                             <div><span class="glyphicon glyphicon-phone"></span><a href="tel:+573016861707" class="telephone-link">+57 301 686 1707</a></div>
                         </div>
-                        <!-- <div class="header-inline-entry">
-                            <a class="button" href="login-register.html">login</a>
-                        </div>
-                        <div class="header-inline-entry">
-                            <a class="link" href="login-register.html">Register</a>
-                        </div> -->
+                        
                     </div>
                 </div>
             </div>
