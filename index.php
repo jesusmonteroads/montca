@@ -102,7 +102,7 @@
                                 <div class="title">Hosting y Cloud</div>
                                 <div class="text">COMPARTIDO, VPS, CLOUD</div>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -188,7 +188,7 @@
                 </div>
             </div>
 
-           
+
 
           <?php include ('nuestrosclientes.php'); ?>
 
@@ -272,7 +272,7 @@
                                                     <footer><cite>Numael Gonzales</cite>, Ceo Estilo Agro</footer>
                                                 </blockquote>
                                             </div>
-                                           
+
                                         </div>
                                         <div class="pagination"></div>
                                     </div>
@@ -283,7 +283,7 @@
                                     <div class="entry col-xs-4 col-sm-3"><div><img src="img/icon-33.png" alt="" /></div></div>
                                     <div class="entry col-xs-4 col-sm-3"><div><img src="img/icon-34.png" alt="" /></div></div>
                                     <div class="entry col-xs-4 col-sm-3"><div><img src="img/icon-35.png" alt="" /></div></div>
-                                   
+
                                 </div>
 
                             </div>
