@@ -641,13 +641,13 @@
 	.block.type-9{background: #232c3b; padding: 0; height: 122px;}
 	.block.type-9 .entry{padding-top: 15px;}
 	.block.type-9 .title{ display: inline-block; font-size: 28px; line-height: 32px; color: #ff6c3a; font-family: 'black', sans-serif, Arial; margin-right: 15px;}
-	.block.type-9 .text{font-size: 20px; line-height: 24px; color: #fff; display: inline-block;}
+	.block.type-9 .text{font-size: 20px; line-height: 38px; color: #fff; display: inline-block;}
 	.block.type-9 .text span{color: #ff6c3a;}
 	.block.type-9 .text b{font-size: 24px;}
 	.block.type-9 .text small{font-size: 14px;}
 	.block.type-9 .text .button{display: inline-block; vertical-align: middle; position: relative; top: -2px; margin: 0 0 0 10px;}
 	@media (max-width: 991px) {
-		.block.type-9{height: auto; padding: 40px 0;}
+		.block.type-9{height: auto; padding: 9px 0;}
 		.block.type-9 .entry{padding: 0;}
 	}
 	@media (max-width: 767px) {
@@ -658,7 +658,7 @@
 /* 17 - BLOCK "TYPE 10" */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 	.block.type-10{padding: 0; padding-top: 55px;; position: relative; background-color: #fff;}
-	.main-banner-height{min-height: 500px!important;}
+	.main-banner-height{min-height: 200px!important;}
 	.block.type-10 .swiper-slide{background-size: cover; background-position: center center;}
 	.block.type-10 .swiper-container, .block.type-10 .swiper-wrapper, .block.type-10 .swiper-slide, .block.type-10 .container, .block.type-10 .slide-container, .block.type-10 .slide-block{height: inherit!important; min-height: 500px!important;}
 	.block.type-10 .pagination{position: absolute; left: 0; bottom: 20px; display: none;}
@@ -1388,7 +1388,7 @@ footer .social-icon:before, .menu-entry div, .menu-entry .submenu-icon span, .su
 	margin-bottom: 20px;
 }
 .block.block-call-pagina, .type-9-posicionamiento{
-	height: 80px !important;
+	height: 200px !important;
 }
 .block.block-call-pagina .entry, .type-9-posicionamiento .entry{
 	padding-top: 18px !important;
@@ -1397,7 +1397,7 @@ footer .social-icon:before, .menu-entry div, .menu-entry .submenu-icon span, .su
 	padding-top: 0px;
 }
 .creacion-pagina{
-	margin-bottom: 40px !important;
+	margin-bottom: 140px !important;
 }
 .block.type-10-paginas.style-1.background-block{
 	height: 400px;
@@ -1424,4 +1424,8 @@ footer .social-icon:before, .menu-entry div, .menu-entry .submenu-icon span, .su
 	margin: 0 auto;
 	position: relative;
 	top: 5px;
+}
+.menu-entry:hover, .menu-entry:visited
+{
+  color: #ff6c3a;
 }
