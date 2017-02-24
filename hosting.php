@@ -119,7 +119,7 @@
                 <div class="container">
                     <div class="entry">
                         <h3 class="title wow fadeInLeft">Contactatos</h3>
-                        <div class="text wow fadeInRight"><b>Para obtener tu servicio de hosting</b><a class="button" href="contacto">Contactenos</a></div>
+                        <div class="text wow fadeInRight"><b>Para obtener tu servicio de hosting.</b><a class="button" href="contacto">Contactenos</a></div>
                     </div>
                 </div>
             </div>
