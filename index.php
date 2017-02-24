@@ -22,7 +22,7 @@
                                         <div class="slide-block nopadding col-sm-6">
                                             <div class="vertical-align">
                                                 <div class="content text-entry">
-                                                    <div class="price">Desde <b>$83.000</b><small> Mensuales</small></div>
+                                                    <div class="price">Desde <b>$93.800</b><small> Mensuales</small></div>
                                                     <h3 class="title">Páginas Web Adaptables a móviles</h3>
                                                     <div class="text">Crea con nosotros páginas web Personales, Empresariales o Ecommerce. Con diseños a la medida de tus necesidades.</div>
                                                     <a class="button" href="pagina-web">Empecemos</a>
@@ -70,7 +70,7 @@
                                         <div class="slide-block nopadding col-sm-6">
                                             <div class="vertical-align">
                                                 <div class="content text-entry">
-                                                    <div class="price">Desde <b>$5.000</b><small> Mensuales</small></div>
+                                                    <div class="price">Desde <b>$8.000</b><small> Mensuales</small></div>
                                                     <h3 class="title">Hosting y Cloud</h3>
                                                     <div class="text">Contamos con la mejor solución de alojamiento web para tu empresa. Con centros de datos en todas partes del mundo que mejoran la entrega de tu aplicación.</div>
                                                     <a class="button" href="hosting">Empecemos</a>

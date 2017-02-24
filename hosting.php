@@ -28,13 +28,13 @@
                 <div class="container">
 
                     <div class="row">
-                        <div class="price-entry col-md-6 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-delay="0.3s">
+                        <div class="price-entry col-md-4 col-sm-4 col-xs-12 wow fadeInLeft" data-wow-delay="0.3s">
                             <!-- <img class="icon img-circle" src="img/icon-73.png" alt="" /> -->
                             <div class="entry">
                                 <div class="top">
                                     <div class="cell-view">
                                         <h3 class="title"><br/>Plan Basico</h3>
-                                        <div class="text">$ 7.000/ Mensuales</div>
+                                        <div class="text">$ 8.000/ Mensuales</div>
                                     </div>
                                 </div>
                                 <div class="middle">
@@ -48,20 +48,20 @@
                                 </div>
                                 <div class="bottom">
                                     <div class="cell-view">
-                                        <div class="price">Desde <b>$ 60.000</b><span>/ Año </span></div>
-                                        <div class="clear">$ 12.000/ Por mes</div>
+                                        <div class="price">Desde <b>$ 80.000</b><span>/ Año </span></div>
+                                        <div class="clear"></div>
                                         <a class="button" href="contacto">Iniciemos!</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="price-entry col-md-6 col-sm-6 col-xs-12 wow fadeInLeft">
+                        <div class="price-entry col-md-4 col-sm-4 col-xs-12 wow fadeInLeft">
                             <!-- <img class="icon img-circle" src="img/icon-74.png" alt="" /> -->
                             <div class="entry">
                                 <div class="top">
                                     <div class="cell-view">
-                                        <h3 class="title"><br/>Plan Avanzado</h3>
-                                        <div class="text">$ 13.000/ Mensuales</div>
+                                        <h3 class="title"><br/>Plan Intermedio</h3>
+                                        <div class="text">$ 13.100/ Mensuales</div>
                                     </div>
                                 </div>
                                 <div class="middle">
@@ -75,7 +75,35 @@
                                 </div>
                                 <div class="bottom">
                                     <div class="cell-view">
-                                        <div class="price">Desde <b>$ 140.000</b><span>/ Año</span></div>
+                                        <div class="price">Desde <b>$ 132.000</b><span>/ Año</span></div>
+                                        <div class="clear"></div>
+                                        <a class="button" href="contacto">Iniciemos!</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="price-entry col-md-4 col-sm-4 col-xs-12 wow fadeInLeft" data-wow-delay="0.3s">
+                            <!-- <img class="icon img-circle" src="img/icon-73.png" alt="" /> -->
+                            <div class="entry">
+                                <div class="top">
+                                    <div class="cell-view">
+                                        <h3 class="title"><br/>Plan Avanzado</h3>
+                                        <div class="text">$ 20.000/ Mensuales</div>
+                                    </div>
+                                </div>
+                                <div class="middle">
+                                    <div><b>Ilimitado</b> Espacio en disco</div>
+                                    <div><b>Ilimitado</b> Tranferencia mensual</div>
+                                    <div><b>Ilimitado</b> Cuentas de correo</div>
+                                    <div><b>Ilimitado</b> Dominios enlazados</div>
+                                    <div><b>Ilimitado</b> DB Mysql</div>
+                                    <div><b>Dominio Gratis</b></div>
+                                    <div>Control Panel &amp; FTP</div>
+                                </div>
+                                <div class="bottom">
+                                    <div class="cell-view">
+                                        <div class="price">Desde <b>$ 200.000</b><span>/ Año </span></div>
                                         <div class="clear"></div>
                                         <a class="button" href="contacto">Iniciemos!</a>
                                     </div>

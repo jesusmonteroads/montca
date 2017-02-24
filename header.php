@@ -28,6 +28,10 @@
 <!DOCTYPE html>
 <html lang="es" prefix="og: http://ogp.me/ns#">
 <head>
+    <meta charset="utf-8">
+    <title><?php echo $titulos[$uri]; ?></title>
+    <meta description="Crea con nosotros páginas web Personales, Empresariales o Ecommerce. Con diseños a la medida de tus necesidades.">
+
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -36,22 +40,19 @@
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="css/animate.css" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="img/favicon.png" />
-  	<title><?php echo $titulos[$uri]; ?></title>
-    <meta description="Crea con nosotros páginas web Personales, Empresariales o Ecommerce. Con diseños a la medida de tus necesidades.">
-
-    <meta property="og:title" content="<?php echo $titulos[$uri]; ?>" />
+  	<meta property="og:title" content="<?php echo $titulos[$uri]; ?>" />
     <meta property="og:description" content="Crea con nosotros páginas web Personales, Empresariales o Ecommerce. Con diseños a la medida de tus necesidades." />
     <meta property="og:type" content="website" />
     <meta property="og:locale:alternate" content="es_ES" />
     <meta property="og:url" content="<?php echo $url_actual; ?>" />
-    <meta property="og:image" content="http://conceptodefinicion.de/wp-content/uploads/2015/10/pagina-web-2-e1444136736137.jpg" />
+    <meta property="og:image" content="img/post-face.png" />
 </head>
 <body class="header-moved">
 
     <header>
         <div class="container">
             <div id="logo-wrapper">
-                <div class="cell-view"><a id="logo" href="index.php"><img src="img/logo.png" alt="" /></a></div>
+                <div class="cell-view"><a id="logo" href="/"><img src="img/logo.png" alt="" /></a></div>
             </div>
             <div class="open-icon">
                 <span></span>
