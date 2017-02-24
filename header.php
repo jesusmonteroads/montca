@@ -42,7 +42,7 @@
     <link rel="shortcut icon" href="img/favicon.png" />
   	<meta property="og:title" content="<?php echo $titulos[$uri]; ?>" />
     <meta property="og:description" content="Crea con nosotros páginas web Personales, Empresariales o Ecommerce. Con diseños a la medida de tus necesidades." />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content="image/png" />
     <meta property="og:locale:alternate" content="es_ES" />
     <meta property="og:url" content="<?php echo $url_actual; ?>" />
     <meta property="og:image" content="img/post-face.png" />
