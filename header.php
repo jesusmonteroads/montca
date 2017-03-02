@@ -46,6 +46,13 @@
     <meta property="og:locale:alternate" content="es_ES" />
     <meta property="og:url" content="<?php echo $url_actual; ?>" />
     <meta property="og:image" content="img/post-face.png" />
+
+    <script>
+    (function(h,e,a,t,m,p) {
+    m=e.createElement(a);m.async=!0;m.src=t;
+    p=e.getElementsByTagName(a)[0];p.parentNode.insertBefore(m,p);
+    })(window,document,'script','https://u.heatmap.it/log.js');
+    </script>
 </head>
 <body class="header-moved">
 
