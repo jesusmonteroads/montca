@@ -658,9 +658,9 @@
 /* 17 - BLOCK "TYPE 10" */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 	.block.type-10{padding: 0; padding-top: 55px;; position: relative; background-color: #fff;}
-	.main-banner-height{min-height: 450px!important;}
+	.main-banner-height{min-height: 580px!important;}
 	.block.type-10 .swiper-slide{background-size: cover; background-position: center center;}
-	.block.type-10 .swiper-container, .block.type-10 .swiper-wrapper, .block.type-10 .swiper-slide, .block.type-10 .container, .block.type-10 .slide-container, .block.type-10 .slide-block{height: inherit!important; min-height: 500px!important;}
+	.block.type-10 .swiper-container, .block.type-10 .swiper-wrapper, .block.type-10 .swiper-slide, .block.type-10 .container, .block.type-10 .slide-container, .block.type-10 .slide-block{height: inherit!important; min-height: 448px!important;}
 	.block.type-10 .pagination{position: absolute; left: 0; bottom: 20px; display: none;}
 	.block.type-10 .slide-container{position: relative;}
 	.block.type-10 .image-overlay{position: absolute; left: 0; width: 100%; text-align: center; top: 50%; transform: translateY(-50%) scale(0); -moz-transform: translateY(-50%) scale(0); -webkit-transform: translateY(-50%) scale(0); -ms-transform: translateY(-50%) scale(0);}
@@ -695,7 +695,7 @@
 	@media (max-width: 991px) {
 		.block.type-10 .content img{transform: scale(1); -moz-transform: scale(1); -webkit-transform: scale(1); -ms-transform: scale(1);}
 		.block.type-10 .content.text-entry{left: 0; opacity: 1;}
-		.block.type-10, .block.type-10 .swiper-container, .block.type-10 .swiper-wrapper, .block.type-10 .swiper-slide, .block.type-10 .container, .block.type-10 .slide-container, .block.type-10 .slide-block{height: 500px!important; min-height: 0px!important;}
+		.block.type-10, .block.type-10 .swiper-container, .block.type-10 .swiper-wrapper, .block.type-10 .swiper-slide, .block.type-10 .container, .block.type-10 .slide-container, .block.type-10 .slide-block{height: 400px!important; min-height: 0px!important;}
 		.block.type-10 .pagination{display: block;}
 		.banner-tabs{display: none;}
 		.swiper-arrow{display: none;}
@@ -1388,7 +1388,7 @@ footer .social-icon:before, .menu-entry div, .menu-entry .submenu-icon span, .su
 	margin-bottom: 20px;
 }
 .block.block-call-pagina, .type-9-posicionamiento{
-	height: 160px !important;
+	height: 205px !important;
 }
 .block.block-call-pagina .entry, .type-9-posicionamiento .entry{
 	padding-top: 18px !important;
@@ -1400,7 +1400,7 @@ footer .social-icon:before, .menu-entry div, .menu-entry .submenu-icon span, .su
 	margin-bottom: 140px !important;
 }
 .block.type-10-paginas.style-1.background-block{
-	height: 400px;
+	height: 500px;
 }
 .block-header-paginas.col-md-6.col-md-offset-3.col-sm-12.col-sm-offset-0{
 	margin-bottom: -38px;

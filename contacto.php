@@ -12,7 +12,7 @@
         }else if($_POST['mensaje'] == ''){
             $errors[4] = '<span class="error">Ingrese un mensaje</span>';
         }else{
-            $dest = "contacto@montca.co".","."handresvegarodriguez@gmail.com"; //Email de destino
+            $dest = "contacto@montca.co".","."handresvegarodriguez@gmail.com".","."jesusdmonteroc@gmail.com"; //Email de destino
             $nombre = $_POST['nombre'];
             $email = $_POST['email'];
             $asunto1 = "Mensaje de formulario";
