@@ -7,7 +7,7 @@
             <!-- BLOCK "TYPE 10" - MODIFICATION WITH BACKGROUND IMAGES -->
             <div class="block type-10 type-10-paginas style-1">
                 <img class="center-image" src="img/background-16.jpg" />
-                <div class="main-banner-height">
+                <div class="main-banner-height-pagina-web">
                     <div class="vertical-align">
                         <div class="container min-height-0">
                             <div class="row nopadding">
@@ -46,7 +46,7 @@
 
                 </div>
             </div>
-            
+
 
             <!-- BLOCK "TYPE 2" -->
             <div class="block type-2">
@@ -225,7 +225,7 @@
                                     </div>
                                 </div>
                             </div>
-                           
+
                         </div>
                     </div>
 
@@ -236,7 +236,7 @@
                 </div>
             </div>
 
-        
+
 
               <?php include ('nuestrosclientes.php'); ?>
 

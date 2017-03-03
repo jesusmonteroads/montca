@@ -658,7 +658,7 @@
 /* 17 - BLOCK "TYPE 10" */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 	.block.type-10{padding: 0; padding-top: 55px;; position: relative; background-color: #fff;}
-	.main-banner-height{min-height: 580px!important;}
+	.main-banner-height{min-height: 450px!important;}
 	.block.type-10 .swiper-slide{background-size: cover; background-position: center center;}
 	.block.type-10 .swiper-container, .block.type-10 .swiper-wrapper, .block.type-10 .swiper-slide, .block.type-10 .container, .block.type-10 .slide-container, .block.type-10 .slide-block{height: inherit!important; min-height: 448px!important;}
 	.block.type-10 .pagination{position: absolute; left: 0; bottom: 20px; display: none;}
@@ -709,6 +709,7 @@
 		.block.type-10 .content .subtitle{margin-top: 5px;}
 		.block.type-10 .content .text{margin-bottom: 15px;}
 		.main-banner-height{height: auto!important; min-height: 200px;}
+    .main-banner-height-pagina-web{min-height: 230px;}
 	}
 
 /*-------------------------------------------------------------------------------------------------------------------------------*/
@@ -1400,7 +1401,7 @@ footer .social-icon:before, .menu-entry div, .menu-entry .submenu-icon span, .su
 	margin-bottom: 140px !important;
 }
 .block.type-10-paginas.style-1.background-block{
-	height: 500px;
+	height: 450px;
 }
 .block-header-paginas.col-md-6.col-md-offset-3.col-sm-12.col-sm-offset-0{
 	margin-bottom: -38px;
