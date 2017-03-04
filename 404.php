@@ -6,7 +6,7 @@
       <div class="block-header col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
         <h2 class="title">Error 404</h2>
         <div class="text">Hola, si no encutra lo que busca</div><br><br>
-        <a class="button" href="contacto">Contactenos</a>
+        <a class="button" href="contacto">¡Contactenos!</a>
       </div>
     </div>
   </div>
