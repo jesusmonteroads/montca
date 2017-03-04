@@ -1430,3 +1430,7 @@ footer .social-icon:before, .menu-entry div, .menu-entry .submenu-icon span, .su
 {
   color: #ff6c3a;
 }
+.margen{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}

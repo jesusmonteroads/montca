@@ -1,5 +1,5 @@
 
-  <?php 
+  <?php
 
     $titulos = [
 
@@ -21,7 +21,7 @@
 
    ?>
 
-<?php 
+<?php
     $url_actual = "http://" . $_SERVER["SERVER_NAME"] . $_SERVER["REQUEST_URI"];
  ?>
 
@@ -72,20 +72,20 @@
                         <nav>
                             <div class="menu-entry active">
                                 <a href="/">Inicio</a>
-                                
+
                             </div>
                             <div class="menu-entry">
                                 <a href="pagina-web">Paginas Web</a>
-                              
+
                             </div>
                             <div class="menu-entry">
                                 <a href="posicionamiento-web">Posicionamiento</a>
                             </div>
                              <div class="menu-entry">
                                 <a href="hosting">Hosting</a>
-                                
+
                             </div>
-                            
+
                             <div class="menu-entry">
                                 <a href="contacto">Contacto</a>
                             </div>
@@ -97,7 +97,7 @@
                             <div><span class="glyphicon glyphicon-time"></span> Soporte al Cliente <b>24/7</b></div>
                             <div><span class="glyphicon glyphicon-phone"></span><a href="tel:+573016861707" class="telephone-link">+57 301 686 1707</a></div>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
