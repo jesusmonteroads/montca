@@ -16,13 +16,13 @@
                         <a target="new" href="http://lanch.co/"><img src="img/logo-1.png" alt="Lanch" /></a>
                     </div>
                     <div class="swiper-slide">
-                        <a target="new" href="http://idea180.com/"><img src="img/logo-2.png" alt="Idea180" /></a>
+                        <a target="new" href="http://inmobiliariacastilloycely.com/"><img src="img/logo-2.png" alt="Idea180" /></a>
                     </div>
                     <div class="swiper-slide">
                         <a target="new" href="http://www.gestiopolis.com/"><img src="img/logo-3.png" alt="Gestiopolis" /></a>
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/logo-4.png" alt="" />
+                        <a href="http://estiloagro.com/"> <img src="img/logo-4.png" alt="" /></a>
                     </div>
                     <div class="swiper-slide">
                         <a target="new" href="http://disenosintegrados.com/"><img src="img/logo-5.png" alt="Disenos integrados" /></a>
