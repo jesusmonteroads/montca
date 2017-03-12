@@ -60,7 +60,7 @@
 </head>
 
 <?php 
-    $activePage = basename($_SERVER['PHP_SELF'], "");
+    $activePage = basename($_SERVER['PHP_SELF'], ".php");
 ?>
 
 <body class="header-moved">
