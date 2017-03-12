@@ -11,7 +11,9 @@
 
     'hosting.php' => 'Montca - Hosting - Colombia',
 
-    'contacto.php' => 'Montca - Contacto - Colombia'
+    'contacto.php' => 'Montca - Contacto - Colombia',
+
+    '404.php' => 'Montca - Página no encontrada'
 
     ];
 
@@ -53,7 +55,14 @@
     p=e.getElementsByTagName(a)[0];p.parentNode.insertBefore(m,p);
     })(window,document,'script','https://u.heatmap.it/log.js');
     </script>
+
+    
 </head>
+
+<?php 
+    $activePage = basename($_SERVER['PHP_SELF'], ".php");
+?>
+
 <body class="header-moved">
 
     <header>
@@ -70,27 +79,27 @@
                 <div class="scrollable-container">
                     <div class="header-left">
                         <nav>
-                            <div class="menu-entry active">
+                            <div class="menu-entry <?= ($activePage == 'index') ? 'active':''; ?>">
                                 <a href="/">Inicio</a>
-
                             </div>
-                            <div class="menu-entry">
+                            <div class="menu-entry <?= ($activePage == 'pagina-web') ? 'active':''; ?>">
                                 <a href="pagina-web">Paginas Web</a>
 
                             </div>
-                            <div class="menu-entry">
+                            <div class="menu-entry <?= ($activePage == 'posicionamiento-web') ? 'active':''; ?>">
                                 <a href="posicionamiento-web">Posicionamiento</a>
                             </div>
-                             <div class="menu-entry">
-                                <a href="hosting">Hosting</a>
+                             <div class="menu-entry <?= ($activePage == 'hosting') ? 'active':''; ?>">
+                                <a class="active" href="hosting">Hosting</a>
 
                             </div>
 
-                            <div class="menu-entry">
+                            <div class="menu-entry <?= ($activePage == 'contacto') ? 'active':''; ?>">
                                 <a href="contacto">Contacto</a>
                             </div>
 
                         </nav>
+
                     </div>
                     <div class="header-right">
                         <div class="header-inline-entry">
